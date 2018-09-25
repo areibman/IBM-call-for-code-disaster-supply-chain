@@ -3,7 +3,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from itertools import product
 from math import exp, factorial
 
-MAX_CARS = 20 # maximum #cars in a location
+MAX_SUPPLIES = 20 # maximum #cars in a location
 MOVE_COST = 2 # cost for moving a car
 RENTAL_REWARD = 10 # reward from one rented car
 AVG_RENTAL_1 = 3 # average #rentals at location 1
@@ -48,7 +48,7 @@ for lmbda in [AVG_RENTAL_1, AVG_RENTAL_2, AVG_RETURN_1, AVG_RETURN_2]:
 A state is a tuple (#cars in location 1)x(#cars in location 2)
 -- states = list of states
 '''
-states = list(product(range(MAX_CARS+1), repeat=2))
+states = list(product(range(MAX_SUPPLIES+1), repeat=2))
 
 '''
 An action, n, is the number of cars moved from location 1 to location 2
@@ -82,12 +82,12 @@ after a day of business starting with num_cars cars
 def expected_day(num_cars, avg_rental, avg_return):
     pd = poisson[avg_rental]
     rewards = 0
-    cars_left_probs = [0]*(MAX_CARS+1)
+    cars_left_probs = [0]*(MAX_SUPPLIES+1)
     for x, xprob in enumerate(poisson[avg_rental]):
         rental = min(x, num_cars)
         rewards += RENTAL_REWARD*rental*xprob
         for y, yprob in enumerate(poisson[avg_return]):
-            cars_left = min(num_cars-rental+y, MAX_CARS)
+            cars_left = min(num_cars-rental+y, MAX_SUPPLIES)
             cars_left_probs[cars_left] += xprob*yprob
     return (rewards, cars_left_probs)
 
@@ -177,7 +177,7 @@ print('Number of iterations: %d' % iter_count)
 
 for step in range(iter_count):
     # policy
-    dim = MAX_CARS+1
+    dim = MAX_SUPPLIES+1
     data = [[0]*dim for x in range(dim)]
     for x, y in states:
         data[x][y] = policies[step][x, y]
@@ -203,7 +203,7 @@ for step in range(iter_count):
 
     ax = fig.add_subplot(122, projection='3d')
     ax.scatter3D(X, Y, Z)
-    ax.set_xlim3d(0, MAX_CARS)
-    ax.set_ylim3d(0, MAX_CARS)
+    ax.set_xlim3d(0, MAX_SUPPLIES)
+    ax.set_ylim3d(0, MAX_SUPPLIES)
     ax.set_title('$v_%s$' % (step if step < iter_count-1 else '*'), fontsize=25)
     plt.show()
