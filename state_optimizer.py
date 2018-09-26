@@ -185,19 +185,18 @@ for step in range(iter_count):
         fig = plt.figure(figsize=(15, 6))
 
         ax = fig.add_subplot(121)
-        ax.matshow(data, cmap=plt.cm.bwr, vmin=-5, vmax=5)
+        ax.matshow(data[::-1], cmap=plt.cm.bwr, vmin=-5, vmax=5)
         ax.set_xticks(range(dim))
         ax.set_yticks(range(dim))
-        ax.xaxis.set_ticks_position('none')
-        ax.yaxis.set_ticks_position('none')
+        ax.xaxis.set_ticks_position('bottom')
+        ax.yaxis.set_ticks_position('left')
         ax.set_xticks([x-0.5 for x in range(1, dim)], minor=True)
         ax.set_xlabel('Number of supplies in store B')
         ax.set_yticks([y-0.5 for y in range(1, dim)], minor=True)
         ax.set_ylabel('Number of supplies in store A')
-        # 'Numbers indicate the number of supplies to move from Location A to B given a certain \n combination of initial allocated supplies as indicated by the axes. \n A negative number indicates supplies should be moved from location B to location A.'
         ax.set_title('Optimal supply distribution strategy.')
         for x, y in states:
-            ax.text(y, x, data[x][y], va='center', ha='center')
+            ax.text(y, x, data[::-1][x][y], va='center', ha='center')
 
         ax = fig.add_subplot(122, projection='3d')
         ax.scatter3D(X, Y, Z)
@@ -207,7 +206,7 @@ for step in range(iter_count):
 
         plt.show()
 
-current_A = 10
+current_A = 3
 current_B = 3
 
 if data[current_A][current_B] < 0:
