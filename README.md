@@ -8,5 +8,7 @@ IBM's Call for Code Hackathon Repository. A tool for medical practitioners and r
 
 Running the app
 First ```cd PatientList```
+
 Then ```npm install && npm start```
+
 Finally view the app at localhost:3000
