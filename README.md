@@ -5,3 +5,8 @@ IBM's Call for Code Hackathon Repository. A tool for medical practitioners and r
 * Tool for medical correspondants to upload patient data to a centralized database. Data can be queried by managers or doctors quickly and easily
 * Live maps of current medical supplies and needs
 * Supply chain prediction using Markov Decision Process reinforcement learning
+
+Running the app
+First ```cd PatientList```
+Then ```npm install && npm start```
+Finally view the app at localhost:3000
