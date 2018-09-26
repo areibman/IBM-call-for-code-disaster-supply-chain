@@ -1,0 +1,43 @@
+{
+  "name": "shopping-list-react-pouchdb",
+  "version": "0.1.0",
+  "homepage": "https://ibm-watson-data-lab.github.io/shopping-list-react-pouchdb/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm-watson-data-lab/shopping-list-react-pouchdb.git"
+  },
+  "author": "Raj Singh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ibm-watson-data-lab/shopping-list-react-pouchdb/issues"
+  },
+  "dependencies": {
+    "ajv": "^6.5.2",
+    "cuid": "^2.1.1",
+    "eslint": "^5.6.0",
+    "gh-pages": "^1.2.0",
+    "hoek": "^5.0.3",
+    "ibm-shopping-list-model": "^0.4.0",
+    "immutable": "^4.0.0-rc.9",
+    "material-ui": "^0.20.0",
+    "pouchdb": "^7.0.0",
+    "pouchdb-find": "^6.4.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "^1.1.4",
+    "styled-components": "^3.4.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "CI=true react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "8.9.4",
+    "npm": "5.6.0"
+  }
+}
