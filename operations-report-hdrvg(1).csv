@@ -1,0 +1,1154 @@
+﻿Items,Origin,Items grouped,Item group filter,Category,Unit,amount,"FSC - KGs (sack=25, pack=1, box=4.5)",FSC - Total KGs,Mission,District,VDC,Village/Ward/extra info,VDC Latitude,VDC Longitude,District Latitude,District Longitude,Date
+,,Noodles,,Food - Dry Food,box,5,4.5,22.5,MISSION 29/4 *01,Bhaktapur,Nankhel,Maligaun,27.6422,85.4598,27.66734,85.41673,29-Apr-15
+,,Medicine - rehydration,,Medicine,unit,1,Undefined,#VALUE!,MISSION 29/4 *01,Bhaktapur,Nankhel,Maligaun,27.6422,85.4598,27.66734,85.41673,29-Apr-15
+,,Piyush,,Sanitation - Water purification,bottle,1,Undefined,#VALUE!,MISSION 29/4 *01,Bhaktapur,Nankhel,Maligaun,27.6422,85.4598,27.66734,85.41673,29-Apr-15
+,,Tarp,,Shelter,unit,8,Undefined,#VALUE!,MISSION 29/4 *01,Bhaktapur,Nankhel,Maligaun,27.6422,85.4598,27.66734,85.41673,29-Apr-15
+,,Tarp,,Shelter,unit,5,Undefined,#VALUE!,MISSION 29/4 *02,Kabhre Palanchok,BanepaN.P.,Aashapuri,27.633,85.5302,27.58333,85.66667,29-Apr-15
+,,Tarp,,Shelter,unit,4,Undefined,#VALUE!,MISSION 29/4 *03,Bhaktapur,Sipadol,Soche,27.64714,85.43797,27.66734,85.41673,29-Apr-15
+,,Medicine - rehydration,,Medicine,unit,20,Undefined,#VALUE!,MISSION 29/4 *04,Bhaktapur,Bhaktapur,Durlang,27.66734,85.41673,27.66734,85.41673,29-Apr-15
+,,Tarp,,Shelter,unit,20,Undefined,#VALUE!,MISSION 29/4 *04,Bhaktapur,BhaktapurN.P.,Durlang,27.6748,85.4319,27.66734,85.41673,29-Apr-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 29/4 *05,Bhaktapur,Sipadol,Naichal,27.64714,85.43797,27.66734,85.41673,29-Apr-15
+,,Tarp,,Shelter,unit,7,Undefined,#VALUE!,MISSION 29/4 *05,Bhaktapur,Sipadol,Naichal,27.64714,85.43797,27.66734,85.41673,29-Apr-15
+,,Tarp,,Shelter,unit,20,Undefined,#VALUE!,MISSION 30/4 *01,Bhaktapur,BhaktapurN.P.,Durlang,27.6748,85.4319,27.66734,85.41673,30-Apr-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 30/4 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,30-Apr-15
+,,Biscuits,,Food - Dry Food,box,1,4.5,4.5,MISSION 30/4 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,30-Apr-15
+,,Noodles,,Food - Dry Food,box,1,4.5,4.5,MISSION 30/4 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,30-Apr-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 30/4 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,30-Apr-15
+,,Medicine - drug,,Medicine,tabs,1,Undefined,#VALUE!,MISSION 30/4 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,30-Apr-15
+,,Tarp,,Shelter,unit,21,Undefined,#VALUE!,MISSION 30/4 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,30-Apr-15
+Diapers,,Medicine - supplies,10,Sanitation - supplies,box,2,Undefined,#VALUE!,MISSION 30/4 nosheet 01,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,30-Apr-15
+Mosquito Coils,,Medicine - supplies,22,Sanitation - supplies,pack,15,Undefined,#VALUE!,MISSION 30/4 nosheet 01,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,30-Apr-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,3,Undefined,#VALUE!,MISSION 30/4 nosheet 01,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,30-Apr-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,3,Undefined,#VALUE!,MISSION 30/4 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,30-Apr-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,30,Undefined,#VALUE!,MISSION 30/4 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,30-Apr-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,24,4.5,108,MISSION 30/4 nosheet 03,Kathmandu District,KathmanduN.P.,Chamati,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Fruit based energy drinks,,Juice,1,Food - Drinks,box,1,Undefined,#VALUE!,MISSION 30/4 nosheet 03,Kathmandu District,KathmanduN.P.,Chamati,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Water,,Water,1,Food - Drinks,bottle,11,Undefined,#VALUE!,MISSION 30/4 nosheet 03,Kathmandu District,KathmanduN.P.,Chamati,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,13,Undefined,#VALUE!,MISSION 30/4 nosheet 04,Kabhre Palanchok,Kabhre Palanchok,,27.58333,85.66667,27.58333,85.66667,30-Apr-15
+Tent set,,Tarp,12,Shelter,unit,1,Undefined,#VALUE!,MISSION 30/4 nosheet 04,Kabhre Palanchok,Kabhre Palanchok,,27.58333,85.66667,27.58333,85.66667,30-Apr-15
+Bandage,,Medicine - supplies,1,Sanitation - supplies,unit,4,Undefined,#VALUE!,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Beaten rice,,Beaten Rice,1,Food - Dry Food,sack,1,25,25,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Betadine,,Medicine - drug,14,Medicine,bottle,1,Undefined,#VALUE!,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,50,Undefined,#VALUE!,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,400,Undefined,#VALUE!,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Metronidazole syrup,,Medicine - drug,44,Medicine,bottle,10,Undefined,#VALUE!,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Noodles,,Noodles,1,Food - Dry Food,box,2,4.5,9,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,10,Undefined,#VALUE!,MISSION 30/4 nosheet 05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,30-Apr-15
+Formula milk,,Formula milk,1,Sanitation - Children supplies,box,8,Undefined,#VALUE!,MISSION 30/4 nosheet 06,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Milk feeding bottles,,Milk feeding bottles,1,Sanitation - Children supplies,bottle,7,Undefined,#VALUE!,MISSION 30/4 nosheet 06,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Rope,,Rope,2,Shelter,unit,10,Undefined,#VALUE!,MISSION 30/4 nosheet 07,Kathmandu District,KathmanduN.P.,Brikutimandap,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Tarp (leftover),,Tarp,2,Shelter,unit,10,Undefined,#VALUE!,MISSION 30/4 nosheet 07,Kathmandu District,KathmanduN.P.,Brikutimandap,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Electrobin,,Medicine - rehydration,1,Medicine,unit,30,Undefined,#VALUE!,MISSION 30/4 nosheet 08,Kathmandu District,KathmanduN.P.,Maligoan,27.70731,85.32218,27.70704,85.33218,30-Apr-15
+Glucose - D,,Medicine - drug,31,Medicine,bottle,5,Undefined,#VALUE!,MISSION 30/4 nosheet 09,Kathmandu District,Baluwa,Tokha,27.76767,85.39192,27.70704,85.33218,30-Apr-15
+Metronidazole syrup,,Medicine - drug,44,Medicine,bottle,6,Undefined,#VALUE!,MISSION 30/4 nosheet 09,Kathmandu District,Baluwa,Tokha,27.76767,85.39192,27.70704,85.33218,30-Apr-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 30/4 nosheet 09,Kathmandu District,Baluwa,Tokha,27.76767,85.39192,27.70704,85.33218,30-Apr-15
+Acenac (muscular pains),,Medicine - drug,6,Medicine,tabs,50,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Adhesive tape,,Medicine - supplies,2,Sanitation - supplies,rolls,1,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Azifast (amoxil),,Medicine - drug,10,Medicine,tabs,30,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Bandage,,Medicine - supplies,1,Sanitation - supplies,unit,32,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Betadine,,Medicine - drug,14,Medicine,bottle,3,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Brufen,,Medicine - drug,16,Medicine,bottle,20,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Decold,,Medicine - drug,23,Medicine,tabs,40,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Dettol soaps,,Medicine - supplies,9,Sanitation - supplies,unit,37,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Electrobin,,Medicine - rehydration,1,Medicine,unit,24,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Flexon,,Medicine - drug,30,Medicine,unit,6,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+hand sanitizer,,Medicine - supplies,20,Sanitation - supplies,bottle,1,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Handiplast,,Medicine - supplies,21,Sanitation - supplies,unit,5,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Imodium,,Medicine - drug,36,Medicine,tabs,20,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,1,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Metdil (anti diarea),,Medicine - drug,2,Medicine,tabs,100,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,30,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Omeprazole,,Medicine - drug,48,Medicine,tabs,40,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Paracetamol (Niko),,Medicine - drug,51,Medicine,tabs,50,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Paracetamol syrup,,Medicine - drug,52,Medicine,bottle,3,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Perimox,,Medicine - drug,58,Medicine,bottle,2,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,7,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Sancho,,Medicine - drug,67,Medicine,bottle,3,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,21,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Seczylos,,Medicine - drug,69,Medicine,box,1,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Volini,,Medicine - drug,74,Medicine,tubes,5,Undefined,#VALUE!,MISSION 30/4 nosheet 10,Lalitpur,Bhardev,Bhardeudeldanda,27.5493,85.3846,27.58333,85.33333,30-Apr-15
+Bandage,,Medicine - supplies,1,Sanitation - supplies,unit,24,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Betadine,,Medicine - drug,14,Medicine,bottle,6,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Flexon,,Medicine - drug,30,Medicine,unit,20,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Gauze dressings,,Medicine - supplies,17,Sanitation - supplies,box,24,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+hand sanitizer,,Medicine - supplies,20,Sanitation - supplies,bottle,2,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,50,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Masks,,Masks,2,Sanitation - supplies,box,40,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,200,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Metronidazole syrup,,Medicine - drug,44,Medicine,bottle,10,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Paracetamol (Niko),,Medicine - drug,51,Medicine,tabs,146,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Sinex,,Medicine - supplies,29,Sanitation - supplies,tabs,20,Undefined,#VALUE!,MISSION 30/4 nosheet 11,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,30-Apr-15
+Beaten rice,,Beaten Rice,1,Food - Dry Food,sack,5,25,125,MISSION 30/4 nosheet 12,Lalitpur,Devichour,,27.5635,85.283,27.58333,85.33333,30-Apr-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,10,4.5,45,MISSION 30/4 nosheet 12,Lalitpur,Devichour,,27.5635,85.283,27.58333,85.33333,30-Apr-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,1,Undefined,#VALUE!,MISSION 30/4 nosheet 12,Lalitpur,Devichour,,27.5635,85.283,27.58333,85.33333,30-Apr-15
+Noodles,,Noodles,1,Food - Dry Food,box,7,4.5,31.5,MISSION 30/4 nosheet 12,Lalitpur,Devichour,,27.5635,85.283,27.58333,85.33333,30-Apr-15
+Paracetamol (Niko),,Medicine - drug,51,Medicine,tabs,80,Undefined,#VALUE!,MISSION 30/4 nosheet 12,Lalitpur,Devichour,,27.5635,85.283,27.58333,85.33333,30-Apr-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,8,Undefined,#VALUE!,MISSION 30/4 nosheet 12,Lalitpur,Devichour,,27.5635,85.283,27.58333,85.33333,30-Apr-15
+Bandage,,Medicine - supplies,1,Sanitation - supplies,unit,5,Undefined,#VALUE!,MISSION 30/4 nosheet 13,Lalitpur,Lele,,27.5615,85.3303,27.58333,85.33333,30-Apr-15
+Electrobin,,Medicine - rehydration,1,Medicine,unit,4,Undefined,#VALUE!,MISSION 30/4 nosheet 13,Lalitpur,Lele,,27.5615,85.3303,27.58333,85.33333,30-Apr-15
+Paracetamol (Niko),,Medicine - drug,51,Medicine,tabs,30,Undefined,#VALUE!,MISSION 30/4 nosheet 13,Lalitpur,Lele,,27.5615,85.3303,27.58333,85.33333,30-Apr-15
+Adhesive tape,,Medicine - supplies,2,Sanitation - supplies,rolls,1,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Bandage,,Medicine - supplies,1,Sanitation - supplies,unit,10,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Betadine,,Medicine - drug,14,Medicine,bottle,3,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,2,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Dettol soaps,,Medicine - supplies,9,Sanitation - supplies,unit,4,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Diclofenac gel,,Medicine - drug,24,Medicine,unit,2,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Gloves,,Medicine - supplies,18,Sanitation - supplies,unit,10,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Handiplast,,Medicine - supplies,21,Sanitation - supplies,unit,60,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,20,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Masks,,Masks,2,Sanitation - supplies,box,20,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,50,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Metronidazole syrup,,Medicine - drug,44,Medicine,bottle,12,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Neomycin,,Medicine - supplies,25,Sanitation - supplies,tubes,2,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Paracetamol (Niko),,Medicine - drug,51,Medicine,tabs,130,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,10,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Relax (anti inflamatory),,Medicine - drug,66,Medicine,tabs,80,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,6,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+Savlon,,Medicine - drug,68,Medicine,unit,1,Undefined,#VALUE!,MISSION 30/4 nosheet 14,Sindhupalchok,Sangachok,Jogitar,27.69532,85.72073,27.82936,85.54504,30-Apr-15
+,,Beaten Rice,,Food - Dry Food,sack,15,25,375,MISSION 01/5 *02,Lalitpur,Badikhel,and also Godawari VDC,27.5887,85.3532,27.58333,85.33333,1-May-15
+,,Biscuits,,Food - Dry Food,box,4,4.5,18,MISSION 01/5 *02,Lalitpur,Badikhel,and also Godawari VDC,27.5887,85.3532,27.58333,85.33333,1-May-15
+,,Noodles,,Food - Dry Food,box,15,4.5,67.5,MISSION 01/5 *02,Lalitpur,Badikhel,and also Godawari VDC,27.5887,85.3532,27.58333,85.33333,1-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 01/5 *02,Lalitpur,Badikhel,and also Godawari VDC,27.5887,85.3532,27.58333,85.33333,1-May-15
+,,Food packages,,Food - Supplies,unit,20,Undefined,#VALUE!,MISSION 01/5 *03,Lalitpur,Badikhel,and also Godawari VDC,27.5887,85.3532,27.58333,85.33333,1-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 01/5 *03,Lalitpur,Badikhel,and also Godawari VDC,27.5887,85.3532,27.58333,85.33333,1-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 01/5 *04,Lalitpur,Godawari,Kotgaun,27.59628,85.37102,27.58333,85.33333,1-May-15
+,,Tarp,,Shelter,unit,20,Undefined,#VALUE!,MISSION 01/5 *05,Sindhupalchok,Hagam,,27.83164,85.81236,27.82936,85.54504,1-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 01/5 *06,Gorkha,Gakhu,Dandagaun,28.06,84.6238,28.33333,84.83333,1-May-15
+,,Tarp,,Shelter,unit,3,Undefined,#VALUE!,MISSION 01/5 *07,Lalitpur,Sainbu,Pharsidol,27.6505,85.3063,27.58333,85.33333,1-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 01/5 *10,Bhaktapur,Bhaktapur,,27.66734,85.41673,27.66734,85.41673,1-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,1,Undefined,#VALUE!,MISSION 01/5 *10,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+,,Piyush,,Sanitation - Water purification,bottle,1,Undefined,#VALUE!,MISSION 01/5 *10,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+,,Medicine - drug,,Medicine,tabs,700,Undefined,#VALUE!,MISSION 01/5 *11,Lalitpur,Khokana,,27.6416,85.2962,27.58333,85.33333,1-May-15
+,,Medicine - rehydration,,Medicine,unit,24,Undefined,#VALUE!,MISSION 01/5 *11,Lalitpur,Khokana,,27.6416,85.2962,27.58333,85.33333,1-May-15
+,,Beaten Rice,,Food - Dry Food,sack,6,25,150,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Medicine - rehydration,,Medicine,unit,75,Undefined,#VALUE!,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Piyush,,Sanitation - Water purification,bottle,1,Undefined,#VALUE!,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Lime,,Shelter,pack,6,Undefined,#VALUE!,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Tarp,,Shelter,unit,17,Undefined,#VALUE!,MISSION 01/5 *12,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+,,Biscuits,,Food - Dry Food,box,2,4.5,9,MISSION 01/5 *13,Lalitpur,Dalchoki,,27.5307,85.3306,27.58333,85.33333,1-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 01/5 *13,Lalitpur,Dalchoki,,27.5307,85.3306,27.58333,85.33333,1-May-15
+,,Lime,,Shelter,pack,5,Undefined,#VALUE!,MISSION 01/5 *13,Lalitpur,Dalchoki,,27.5307,85.3306,27.58333,85.33333,1-May-15
+,,Tarp,,Shelter,unit,14,Undefined,#VALUE!,MISSION 01/5 *13,Lalitpur,Dalchoki,,27.5307,85.3306,27.58333,85.33333,1-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 01/5 *14,Kabhre Palanchok,DhulikhelN.P,Thakuri,27.6217,85.5576,27.58333,85.66667,1-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 01/5 *15,Lalitpur,Nallu,Choughare,27.5481,85.3454,27.58333,85.33333,1-May-15
+,,Rice,,Food - Dry Food,sack,3,25,75,MISSION 01/5 *15,Lalitpur,Nallu,Choughare,27.5481,85.3454,27.58333,85.33333,1-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 01/5 *15,Lalitpur,Nallu,Choughare,27.5481,85.3454,27.58333,85.33333,1-May-15
+,,Tarp,,Shelter,unit,24,Undefined,#VALUE!,MISSION 01/5 *15,Lalitpur,Nallu,Choughare,27.5481,85.3454,27.58333,85.33333,1-May-15
+Beaten rice,,Beaten Rice,1,Food - Dry Food,sack,1,25,25,MISSION 01/5 #01,Bhaktapur,Bhaktapur,,27.66734,85.41673,27.66734,85.41673,1-May-15
+Water,,Water,1,Food - Drinks,bottle,48,Undefined,#VALUE!,MISSION 01/5 #01,Bhaktapur,Bhaktapur,,27.66734,85.41673,27.66734,85.41673,1-May-15
+Noodles,,Noodles,1,Food - Dry Food,box,1,4.5,4.5,MISSION 01/5 #01,Bhaktapur,Bhaktapur,,27.66734,85.41673,27.66734,85.41673,1-May-15
+Beaten rice,,Beaten Rice,1,Food - Dry Food,sack,2,25,50,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,7,4.5,31.5,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Glucose - D,,Medicine - drug,31,Medicine,bottle,16,Undefined,#VALUE!,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Lime,,Lime,1,Shelter,pack,16,Undefined,#VALUE!,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Medical Kit,,Medical Kit,1,Medicine,unit,1,Undefined,#VALUE!,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Noodles,,Noodles,1,Food - Dry Food,box,3,4.5,13.5,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Noodles,,Noodles,2,Food - Dry Food,box,3,4.5,13.5,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Tent (13x20),,Tarp,6,Shelter,unit,6,Undefined,#VALUE!,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Tent (15x18),,Tarp,7,Shelter,unit,15,Undefined,#VALUE!,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Tent (18x24),,Tarp,8,Shelter,unit,5,Undefined,#VALUE!,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Tent (9x12),,Tarp,11,Shelter,unit,24,Undefined,#VALUE!,MISSION 01/5 #02,Lalitpur,Bhattedanda,Tinpane,27.5108,85.2961,27.58333,85.33333,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,2,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+Diapers,,Medicine - supplies,10,Sanitation - supplies,box,2,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+Flex on (painkiller,,Medicine - drug,29,Medicine,box,10,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,5,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+Lactogen,,Lactogen,1,Sanitation - Children supplies,unit,2,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,50,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+protogyl (anti diarhea),,Medicine - drug,4,Medicine,bottle,10,Undefined,#VALUE!,MISSION 01/5 #10,Kathmandu District,KirtipurN.P.,Itagol,27.67088,85.27748,27.70704,85.33218,1-May-15
+Tarp,,Tarp,1,Shelter,unit,5,Undefined,#VALUE!,MISSION 01/5 #11,Kathmandu District,Chunikhel,,27.75586,85.37301,27.70704,85.33218,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 #12,Kabhre Palanchok,DhulikhelN.P,Kutal,27.6217,85.5576,27.58333,85.66667,1-May-15
+Flexon,,Medicine - drug,30,Medicine,unit,15,Undefined,#VALUE!,MISSION 01/5 #12,Kabhre Palanchok,DhulikhelN.P,Kutal,27.6217,85.5576,27.58333,85.66667,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,10,Undefined,#VALUE!,MISSION 01/5 #12,Kabhre Palanchok,DhulikhelN.P,Kutal,27.6217,85.5576,27.58333,85.66667,1-May-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,50,Undefined,#VALUE!,MISSION 01/5 #12,Kabhre Palanchok,DhulikhelN.P,Kutal,27.6217,85.5576,27.58333,85.66667,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 #12,Kabhre Palanchok,DhulikhelN.P,Kutal,27.6217,85.5576,27.58333,85.66667,1-May-15
+PCM,,Medicine - drug,54,Medicine,tabs,10,Undefined,#VALUE!,MISSION 01/5 #12,Kabhre Palanchok,DhulikhelN.P,Kutal,27.6217,85.5576,27.58333,85.66667,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 #12,Kabhre Palanchok,DhulikhelN.P,Kutal,27.6217,85.5576,27.58333,85.66667,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+Crepe Bandage,,Medicine - supplies,7,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,12,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+paraflam,,Medicine - drug,53,Medicine,unit,60,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+PCM,,Medicine - drug,54,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,5,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+Tarp,,Tarp,1,Shelter,unit,20,Undefined,#VALUE!,MISSION 01/5 #13,Sindhupalchok,Gati,,27.82553,85.90248,27.82936,85.54504,1-May-15
+Tent (15x18),,Tarp,7,Shelter,unit,5,Undefined,#VALUE!,MISSION 01/5 #14,Kabhre Palanchok,PanautiN.P.,,27.5854,85.5242,27.58333,85.66667,1-May-15
+Tent (9x12),,Tarp,11,Shelter,unit,5,Undefined,#VALUE!,MISSION 01/5 #14,Kabhre Palanchok,PanautiN.P.,,27.5854,85.5242,27.58333,85.66667,1-May-15
+Foam Pads,,Medicine - supplies,15,Sanitation - supplies,unit,10,Undefined,#VALUE!,MISSION 01/5 #15,Kathmandu District,Chhaimale,,27.58783,85.26671,27.70704,85.33218,1-May-15
+Jute Rope,,Rope,1,Shelter,unit,7,Undefined,#VALUE!,MISSION 01/5 #15,Kathmandu District,Chhaimale,,27.58783,85.26671,27.70704,85.33218,1-May-15
+Metal Pegs,,Metal Pegs,1,Shelter,unit,184,Undefined,#VALUE!,MISSION 01/5 #15,Kathmandu District,Chhaimale,,27.58783,85.26671,27.70704,85.33218,1-May-15
+Nylon rope,,Nylon rope,1,Shelter,unit,25,Undefined,#VALUE!,MISSION 01/5 #15,Kathmandu District,Chhaimale,,27.58783,85.26671,27.70704,85.33218,1-May-15
+Plastic rolls,,Plastic rolls,1,Shelter,rolls,1,Undefined,#VALUE!,MISSION 01/5 #15,Kathmandu District,Chhaimale,,27.58783,85.26671,27.70704,85.33218,1-May-15
+Water Purification Tablets,,Purification tablets,1,Sanitation - Water purification,tabs,40,Undefined,#VALUE!,MISSION 01/5 #15,Kathmandu District,Chhaimale,,27.58783,85.26671,27.70704,85.33218,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,7,4.5,31.5,MISSION 01/5 #16,Lalitpur,Gotikhel,,27.4981,85.3985,27.58333,85.33333,1-May-15
+Glucose - D,,Medicine - drug,31,Medicine,bottle,16,Undefined,#VALUE!,MISSION 01/5 #16,Lalitpur,Gotikhel,,27.4981,85.3985,27.58333,85.33333,1-May-15
+Lime,,Lime,1,Shelter,pack,10,Undefined,#VALUE!,MISSION 01/5 #16,Lalitpur,Gotikhel,,27.4981,85.3985,27.58333,85.33333,1-May-15
+Noodles,,Noodles,2,Food - Dry Food,box,6,4.5,27,MISSION 01/5 #16,Lalitpur,Gotikhel,,27.4981,85.3985,27.58333,85.33333,1-May-15
+Tent (15x18),,Tarp,7,Shelter,unit,15,Undefined,#VALUE!,MISSION 01/5 #16,Lalitpur,Gotikhel,,27.4981,85.3985,27.58333,85.33333,1-May-15
+Tent (18x24),,Tarp,8,Shelter,unit,5,Undefined,#VALUE!,MISSION 01/5 #16,Lalitpur,Gotikhel,,27.4981,85.3985,27.58333,85.33333,1-May-15
+Tent (9x12),,Tarp,11,Shelter,unit,22,Undefined,#VALUE!,MISSION 01/5 #16,Lalitpur,Gotikhel,,27.4981,85.3985,27.58333,85.33333,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,4,4.5,18,MISSION 01/5 #17,Sindhupalchok,Jyamire,Rayale,27.30714,86.47213,27.82936,85.54504,1-May-15
+Tent (15x18),,Tarp,7,Shelter,unit,1,Undefined,#VALUE!,MISSION 01/5 #17,Sindhupalchok,Jyamire,Rayale,27.30714,86.47213,27.82936,85.54504,1-May-15
+Tent (18x24),,Tarp,8,Shelter,unit,3,Undefined,#VALUE!,MISSION 01/5 #17,Sindhupalchok,Jyamire,Rayale,27.30714,86.47213,27.82936,85.54504,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,8,4.5,36,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Glucose - D,,Medicine - drug,31,Medicine,bottle,24,Undefined,#VALUE!,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Lime,,Lime,1,Shelter,pack,20,Undefined,#VALUE!,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Noodles purchased (75 bags of 20 units),,Noodles,3,Food - Dry Food,box,3,4.5,13.5,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Tent (12x15),,Tarp,5,Shelter,unit,15,Undefined,#VALUE!,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Tent (13x20),,Tarp,6,Shelter,unit,4,Undefined,#VALUE!,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Tent (18x24),,Tarp,8,Shelter,unit,5,Undefined,#VALUE!,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Tent (9x12),,Tarp,11,Shelter,unit,15,Undefined,#VALUE!,MISSION 01/5 #18,Lalitpur,Malta,,27.5065,85.2624,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,3,Undefined,#VALUE!,MISSION 01/5 #3,Sindhupalchok,Sindhupalchok,and also Nuwakot district,27.82936,85.54504,27.82936,85.54504,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 #4,Lalitpur,Lubhu,,27.6359,85.3754,27.58333,85.33333,1-May-15
+Noodles,,Noodles,2,Food - Dry Food,box,2,4.5,9,MISSION 01/5 #4,Lalitpur,Lubhu,,27.6359,85.3754,27.58333,85.33333,1-May-15
+Electrolytes,,Medicine - rehydration,2,Medicine,unit,20,Undefined,#VALUE!,MISSION 01/5 #5,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,1-May-15
+Feeding bottles,,Feeding bottles,1,Sanitation - Children supplies,unit,7,Undefined,#VALUE!,MISSION 01/5 #5,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,1-May-15
+Food packages,,Food packages,1,Food - Supplies,unit,100,Undefined,#VALUE!,MISSION 01/5 #5,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,1-May-15
+Formula milk,,Formula milk,1,Sanitation - Children supplies,box,15,Undefined,#VALUE!,MISSION 01/5 #5,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,1-May-15
+Masks,,Masks,2,Sanitation - supplies,box,50,Undefined,#VALUE!,MISSION 01/5 #5,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,1-May-15
+Mosquito Nets,,Medicine - supplies,23,Sanitation - supplies,unit,9,Undefined,#VALUE!,MISSION 01/5 #5,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,1-May-15
+Medical Kit,,Medical Kit,1,Medicine,unit,1,Undefined,#VALUE!,MISSION 01/5 #6,Kabhre Palanchok,PanautiN.P.,Khopasi,27.5854,85.5242,27.58333,85.66667,1-May-15
+Dal,,Dal,1,Food - Dry Food,sack,10,25,250,MISSION 01/5 #7,Lalitpur,Harisiddhi,,27.6389,85.3456,27.58333,85.33333,1-May-15
+Jeera,,Food,2,Food - Supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 #7,Lalitpur,Harisiddhi,,27.6389,85.3456,27.58333,85.33333,1-May-15
+Jeevanjal,,Medicine - rehydration,3,Medicine,unit,450,Undefined,#VALUE!,MISSION 01/5 #7,Lalitpur,Harisiddhi,,27.6389,85.3456,27.58333,85.33333,1-May-15
+Oil,,Oil,1,Food - Dry Food,bottle,5,1,5,MISSION 01/5 #7,Lalitpur,Harisiddhi,,27.6389,85.3456,27.58333,85.33333,1-May-15
+Puenyl,,Medicine - drug,83,Medicine,bottle,3,Undefined,#VALUE!,MISSION 01/5 #7,Lalitpur,Harisiddhi,,27.6389,85.3456,27.58333,85.33333,1-May-15
+Rice,,Rice,1,Food - Dry Food,sack,1,25,25,MISSION 01/5 #7,Lalitpur,Harisiddhi,,27.6389,85.3456,27.58333,85.33333,1-May-15
+Salt,,Salt,1,Food - Dry Food,pack,5,1,5,MISSION 01/5 #7,Lalitpur,Harisiddhi,,27.6389,85.3456,27.58333,85.33333,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,100,4.5,450,MISSION 01/5 #8,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,1-May-15
+Dalmot,,Dalmot,1,Food - Dry Food,pack,7,1,7,MISSION 01/5 #8,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,1-May-15
+Furandanal,,Food,1,Food - Supplies,pack,9,Undefined,#VALUE!,MISSION 01/5 #8,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,1-May-15
+Glucose - D,,Medicine - drug,31,Medicine,bottle,30,Undefined,#VALUE!,MISSION 01/5 #8,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,1-May-15
+Juice,,Juice,2,Food - Drinks,box,140,Undefined,#VALUE!,MISSION 01/5 #8,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,1-May-15
+Lito- baby food,,Lito- baby food,1,Sanitation - Children supplies,pack,28,Undefined,#VALUE!,MISSION 01/5 #8,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,1-May-15
+Noodles,,Noodles,2,Food - Dry Food,unit,270,0.06,16.2,MISSION 01/5 #8,Lalitpur,Bungamati,,27.6211,85.303,27.58333,85.33333,1-May-15
+Adhesive tape,,Medicine - supplies,2,Sanitation - supplies,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Azifast (amoxil),,Medicine - drug,10,Medicine,tabs,30,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,1,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Brufen,,Medicine - drug,16,Medicine,bottle,80,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Dettol antiseptic liquids,,Medicine - supplies,8,Sanitation - supplies,bottle,2,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Levocetrizine,,Medicine - drug,39,Medicine,tabs,50,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Ligdocaine,,Medicine - drug,41,Medicine,bottle,1,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,4,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+syringe,,Medicine - supplies,31,Sanitation - supplies,box,22,Undefined,#VALUE!,MISSION 01/5 nosheet 01,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,1-May-15
+Adhesive tape,,Medicine - supplies,2,Sanitation - supplies,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Bandage,,Medicine - supplies,1,Sanitation - supplies,unit,24,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Brufen,,Medicine - drug,17,Medicine,tabs,50,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Dettol antiseptic liquids,,Medicine - supplies,8,Sanitation - supplies,bottle,1,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Gloves,,Medicine - supplies,18,Sanitation - supplies,unit,10,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Masks,,Masks,2,Sanitation - supplies,box,1,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Metdil (anti diarea),,Medicine - drug,2,Medicine,tabs,20,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Paracetamol (Niko),,Medicine - drug,51,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 02,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,1-May-15
+Acenac (muscular pains),,Medicine - drug,6,Medicine,tabs,50,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+Bandage,,Medicine - supplies,1,Sanitation - supplies,unit,4,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,2,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+Dettol soaps,,Medicine - supplies,9,Sanitation - supplies,unit,3,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+Metronidazole syrup,,Medicine - drug,44,Medicine,bottle,3,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,3,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+Water purification drops,,Medicine - supplies,37,Sanitation - supplies,bottle,2,Undefined,#VALUE!,MISSION 01/5 nosheet 03,Kabhre Palanchok,Mathurapatifulbari,"Bukhil, Bhakundebesi, Khopase",27.577,85.6235,27.58333,85.66667,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Crepe Bandage,,Medicine - supplies,7,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Flexon,,Medicine - drug,30,Medicine,unit,15,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Noodles,,Noodles,2,Food - Dry Food,unit,43,0.06,2.58,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,3,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Paracetamol (Niko),,Medicine - drug,51,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+paraflam,,Medicine - drug,53,Medicine,unit,40,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,9,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,5,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Tent (15x18),,Tarp,7,Shelter,unit,25,Undefined,#VALUE!,MISSION 01/5 nosheet 04,Lalitpur,Bhardev,,27.5493,85.3846,27.58333,85.33333,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Crepe Bandage,,Medicine - supplies,7,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Flexon,,Medicine - drug,30,Medicine,unit,75,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Foam Pads,,Medicine - supplies,15,Sanitation - supplies,unit,4,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Metal Pegs,,Metal Pegs,1,Shelter,unit,32,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Nylon rope,,Nylon rope,1,Shelter,unit,4,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,3,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+PCM,,Medicine - drug,54,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Plastic rolls,,Plastic rolls,1,Shelter,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,5,Undefined,#VALUE!,MISSION 01/5 nosheet 05,Lalitpur,Chapagaun,Bista Gaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Acenac (muscular pains),,Medicine - drug,6,Medicine,tabs,50,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Beaten rice,,Beaten Rice,1,Food - Dry Food,sack,1,25,25,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,3,4.5,13.5,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Crepe Bandage,,Medicine - supplies,7,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Foam Pads,,Medicine - supplies,15,Sanitation - supplies,unit,8,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Metal Pegs,,Metal Pegs,1,Shelter,unit,64,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Noodles,,Noodles,1,Food - Dry Food,box,2,4.5,9,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,3,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Pasta-Thick,,Pasta,1,Food - Dry Food,pack,80,1,80,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+PCM,,Medicine - drug,54,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Rope,,Rope,2,Shelter,unit,8,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,5,Undefined,#VALUE!,MISSION 01/5 nosheet 06,Lalitpur,Chapagaun,Jhalungtar,27.5935,85.3297,27.58333,85.33333,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,10,4.5,45,MISSION 01/5 nosheet 07,Lalitpur,Devichour,"and also Dhusel, Chhampi, Dukuchhap",27.5635,85.283,27.58333,85.33333,1-May-15
+Glucose - D,,Medicine - drug,31,Medicine,bottle,24,Undefined,#VALUE!,MISSION 01/5 nosheet 07,Lalitpur,Devichour,"and also Dhusel, Chhampi, Dukuchhap",27.5635,85.283,27.58333,85.33333,1-May-15
+Lime,,Lime,1,Shelter,pack,20,Undefined,#VALUE!,MISSION 01/5 nosheet 07,Lalitpur,Devichour,"and also Dhusel, Chhampi, Dukuchhap",27.5635,85.283,27.58333,85.33333,1-May-15
+Noodles,,Noodles,2,Food - Dry Food,box,4,4.5,18,MISSION 01/5 nosheet 07,Lalitpur,Devichour,"and also Dhusel, Chhampi, Dukuchhap",27.5635,85.283,27.58333,85.33333,1-May-15
+Tent (12x15),,Tarp,5,Shelter,unit,45,Undefined,#VALUE!,MISSION 01/5 nosheet 07,Lalitpur,Devichour,"and also Dhusel, Chhampi, Dukuchhap",27.5635,85.283,27.58333,85.33333,1-May-15
+Tent (18x24),,Tarp,8,Shelter,unit,15,Undefined,#VALUE!,MISSION 01/5 nosheet 07,Lalitpur,Devichour,"and also Dhusel, Chhampi, Dukuchhap",27.5635,85.283,27.58333,85.33333,1-May-15
+Beaten rice,,Beaten Rice,1,Food - Dry Food,sack,1,25,25,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Biscuits,,Biscuits,1,Food - Dry Food,box,3,4.5,13.5,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Crepe Bandage,,Medicine - supplies,7,Sanitation - supplies,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Foam Pads,,Medicine - supplies,15,Sanitation - supplies,unit,5,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,18,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Ibuprofen,,Medicine - drug,35,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Metal Pegs,,Metal Pegs,1,Shelter,unit,40,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Noodles,,Noodles,1,Food - Dry Food,box,2,4.5,9,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,36,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+PCM,,Medicine - drug,54,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Plastic rolls,,Plastic rolls,1,Shelter,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Rope,,Rope,2,Shelter,unit,5,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,5,Undefined,#VALUE!,MISSION 01/5 nosheet 08,Lalitpur,Chapagaun,Ghyampedanda,27.5935,85.3297,27.58333,85.33333,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Brucet,,Medicine - drug,15,Medicine,tabs,105,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Crepe Bandage,,Medicine - supplies,7,Sanitation - supplies,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,12,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,36,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+PCM,,Medicine - drug,54,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,5,Undefined,#VALUE!,MISSION 01/5 nosheet 09,Lalitpur,Jharuwarasi,and also Chapagaun,27.6123,85.342,27.58333,85.33333,1-May-15
+Adhesive tape,,Medicine - supplies,2,Sanitation - supplies,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Azifast (amoxil),,Medicine - drug,10,Medicine,tabs,30,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,1,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Brufen,,Medicine - drug,16,Medicine,bottle,80,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Dettol antiseptic liquids,,Medicine - supplies,8,Sanitation - supplies,bottle,2,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Levocetrizine,,Medicine - drug,39,Medicine,tabs,50,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Ligdocaine,,Medicine - drug,41,Medicine,bottle,1,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,4,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+syringe,,Medicine - supplies,31,Sanitation - supplies,box,22,Undefined,#VALUE!,MISSION 01/5 nosheet 10,Kathmandu District,Baad Bhanjyang,Mabina,27.70476,85.2104,27.70704,85.33218,1-May-15
+Betadine,,Medicine - drug,14,Medicine,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Cotton,,Medicine - supplies,6,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Crepe Bandage,,Medicine - supplies,7,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Gauge Bandage,,Medicine - supplies,16,Sanitation - supplies,rolls,4,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Metronidazole,,Medicine - drug,43,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+ORS,,Medicine - rehydration,4,Medicine,box,3,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+paraflam,,Medicine - drug,53,Medicine,unit,6,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+PCM,,Medicine - drug,54,Medicine,tabs,100,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Piyush,,Piyush,1,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Plastic rolls,,Plastic rolls,1,Shelter,rolls,1,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+Sanitary napkins,,Medicine - supplies,28,Sanitation - supplies,pack,5,Undefined,#VALUE!,MISSION 01/5 nosheet 11,Lalitpur,Chapagaun,Neupanegaun,27.5935,85.3297,27.58333,85.33333,1-May-15
+,,Beaten Rice,,Food - Dry Food,sack,1,25,25,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Biscuits,,Food - Dry Food,box,10,4.5,45,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Medicine - drug,,Medicine,tabs,20,Undefined,#VALUE!,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Medicine - rehydration,,Medicine,unit,100,Undefined,#VALUE!,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,72,Undefined,#VALUE!,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Plastic rolls,,Shelter,rolls,1,Undefined,#VALUE!,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Tarp,,Shelter,unit,57,Undefined,#VALUE!,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Tarp,,Shelter,unit,11,Undefined,#VALUE!,MISSION 02/5 *01,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,1,25,25,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Biscuits,,Food - Dry Food,box,2,4.5,9,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Medicine - rehydration,,Medicine,unit,50,Undefined,#VALUE!,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Piyush,,Sanitation - Water purification,bottle,3,Undefined,#VALUE!,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Lime,,Shelter,pack,12,Undefined,#VALUE!,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Plastic rolls,,Shelter,rolls,1,Undefined,#VALUE!,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Tarp,,Shelter,unit,7,Undefined,#VALUE!,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Tarp,,Shelter,unit,3,Undefined,#VALUE!,MISSION 02/5 *02,Sindhupalchok,Kadambas,,27.72394,85.76373,27.82936,85.54504,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,8,25,200,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Biscuits,,Food - Dry Food,box,12,4.5,54,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Noodles,,Food - Dry Food,box,12,4.5,54,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,72,Undefined,#VALUE!,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Lime,,Shelter,pack,11,Undefined,#VALUE!,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Rope,,Shelter,unit,85,Undefined,#VALUE!,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Tarp,,Shelter,unit,85,Undefined,#VALUE!,MISSION 02/5 *03,Lalitpur,Bhattedanda,and also Malta VDC,27.5108,85.2961,27.58333,85.33333,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,4,25,100,MISSION 02/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 02/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Noodles,,Food - Dry Food,box,6,4.5,27,MISSION 02/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 02/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Medicine - rehydration,,Medicine,unit,50,Undefined,#VALUE!,MISSION 02/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,72,Undefined,#VALUE!,MISSION 02/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Tarp,,Shelter,unit,70,Undefined,#VALUE!,MISSION 02/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Tarp,,Shelter,unit,1,Undefined,#VALUE!,MISSION 02/5 *05,Lalitpur,LalitpurN.P.,,27.6691,85.3199,27.58333,85.33333,2-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 02/5 *06,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,20,Undefined,#VALUE!,MISSION 02/5 *06,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 02/5 *07,Ramechhap,Gumdel,,27.64091,86.42334,27.3303,86.06458,2-May-15
+,,Medicine - rehydration,,Medicine,unit,200,Undefined,#VALUE!,MISSION 02/5 *07,Ramechhap,Gumdel,,27.64091,86.42334,27.3303,86.06458,2-May-15
+,,Piyush,,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 02/5 *07,Ramechhap,Gumdel,,27.64091,86.42334,27.3303,86.06458,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 02/5 *08,Dolakha,Gaurisankar,Sinigaun,27.85563,86.26379,27.83333,86.25,2-May-15
+,,Noodles,,Food - Dry Food,box,4,4.5,18,MISSION 02/5 *08,Dolakha,Gaurisankar,Sinigaun,27.85563,86.26379,27.83333,86.25,2-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 02/5 *08,Dolakha,Gaurisankar,Sinigaun,27.85563,86.26379,27.83333,86.25,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,90,Undefined,#VALUE!,MISSION 02/5 *08,Dolakha,Gaurisankar,Sinigaun,27.85563,86.26379,27.83333,86.25,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,12,25,300,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Biscuits,,Food - Dry Food,box,14,4.5,63,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Food,,Food - Supplies,pack,50,Undefined,#VALUE!,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Salt,,Food - Dry Food,pack,50,1,50,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Sugar,,Food - Dry Food,pack,50,1,50,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,120,Undefined,#VALUE!,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Piyush,,Sanitation - Water purification,bottle,6,Undefined,#VALUE!,MISSION 02/5 *09,Dhading,Reegaun,Satya,28.1121,84.9752,28,84.91667,2-May-15
+,,Biscuits,,Food - Dry Food,box,10,4.5,45,MISSION 02/5 *10,Gorkha,Aarupokhari,,28.0618,84.776,28.33333,84.83333,2-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 02/5 *10,Gorkha,Aarupokhari,,28.0618,84.776,28.33333,84.83333,2-May-15
+,,Sugar,,Food - Dry Food,pack,51,1,51,MISSION 02/5 *10,Gorkha,Aarupokhari,,28.0618,84.776,28.33333,84.83333,2-May-15
+,,Medicine - drug,,Medicine,tabs,180,Undefined,#VALUE!,MISSION 02/5 *10,Gorkha,Aarupokhari,,28.0618,84.776,28.33333,84.83333,2-May-15
+,,Medicine - rehydration,,Medicine,unit,50,Undefined,#VALUE!,MISSION 02/5 *10,Gorkha,Aarupokhari,,28.0618,84.776,28.33333,84.83333,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,72,Undefined,#VALUE!,MISSION 02/5 *10,Gorkha,Aarupokhari,,28.0618,84.776,28.33333,84.83333,2-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,500,Undefined,#VALUE!,MISSION 02/5 *10,Gorkha,Aarupokhari,,28.0618,84.776,28.33333,84.83333,2-May-15
+,,Medicine - rehydration,,Medicine,unit,3,Undefined,#VALUE!,MISSION 02/5 *11,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,1,25,25,MISSION 02/5 *12,Dolakha,Chhetrapa,Yabo,27.66913,86.13334,27.83333,86.25,2-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 02/5 *12,Dolakha,Chhetrapa,Yabo,27.66913,86.13334,27.83333,86.25,2-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 02/5 *12,Dolakha,Chhetrapa,Yabo,27.66913,86.13334,27.83333,86.25,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,3,Undefined,#VALUE!,MISSION 02/5 *12,Dolakha,Chhetrapa,Yabo,27.66913,86.13334,27.83333,86.25,2-May-15
+,,Lime,,Shelter,pack,10,Undefined,#VALUE!,MISSION 02/5 *12,Dolakha,Chhetrapa,Yabo,27.66913,86.13334,27.83333,86.25,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,1,25,25,MISSION 02/5 *13,Dhading,Jyamrung,Kuma,27.976,84.8736,28,84.91667,2-May-15
+,,Biscuits,,Food - Dry Food,box,1,4.5,4.5,MISSION 02/5 *13,Dhading,Jyamrung,Kuma,27.976,84.8736,28,84.91667,2-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,8,Undefined,#VALUE!,MISSION 02/5 *13,Dhading,Jyamrung,Kuma,27.976,84.8736,28,84.91667,2-May-15
+,,Piyush,,Sanitation - Water purification,bottle,5,Undefined,#VALUE!,MISSION 02/5 *13,Dhading,Jyamrung,Kuma,27.976,84.8736,28,84.91667,2-May-15
+,,Medicine - rehydration,,Medicine,unit,36,Undefined,#VALUE!,MISSION 02/5 *14,Dhading,Gumdi,Jyamrung,28.0475,84.951,28,84.91667,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,25,Undefined,#VALUE!,MISSION 02/5 *14,Dhading,Gumdi,Jyamrung,28.0475,84.951,28,84.91667,2-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,15,Undefined,#VALUE!,MISSION 02/5 *14,Dhading,Gumdi,Jyamrung,28.0475,84.951,28,84.91667,2-May-15
+,,Piyush,,Sanitation - Water purification,bottle,10,Undefined,#VALUE!,MISSION 02/5 *14,Dhading,Gumdi,Jyamrung,28.0475,84.951,28,84.91667,2-May-15
+,,Beaten Rice,,Food - Dry Food,sack,4,25,100,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Noodles,,Food - Dry Food,box,6,4.5,27,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Medicine - rehydration,,Medicine,unit,150,Undefined,#VALUE!,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,144,Undefined,#VALUE!,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Plastic rolls,,Shelter,rolls,23,Undefined,#VALUE!,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Rope,,Shelter,unit,90,Undefined,#VALUE!,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Tarp,,Shelter,unit,110,Undefined,#VALUE!,MISSION 02/5 *15,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,2-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 02/5 *16,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,2-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 02/5 *16,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,2-May-15
+,,Medicine - drug,,Medicine,tabs,340,Undefined,#VALUE!,MISSION 02/5 *16,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,2-May-15
+,,Biscuits,,Food - Dry Food,box,4,4.5,18,MISSION 02/5 *17,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,2-May-15
+,,Food,,Food - Supplies,pack,10,Undefined,#VALUE!,MISSION 02/5 *17,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,2-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 02/5 *17,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,2-May-15
+,,Medicine - rehydration,,Medicine,unit,50,Undefined,#VALUE!,MISSION 02/5 *17,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,2-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,500,Undefined,#VALUE!,MISSION 02/5 *17,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,2-May-15
+,,Lime,,Shelter,pack,4,Undefined,#VALUE!,MISSION 02/5 *17,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,2-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,75,Undefined,#VALUE!,MISSION 02/5 *18,Kathmandu District,Sitapaila,Alegaun,27.71517,85.27648,27.70704,85.33218,2-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,35,Undefined,#VALUE!,MISSION 02/5 *19,Kathmandu District,Machchhegaun,Sharmasthali,27.4687,85.7881,27.70704,85.33218,2-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 02/5 *20,Lalitpur,Bungamati,and also Lubhu VDC,27.6211,85.303,27.58333,85.33333,2-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,12,Undefined,#VALUE!,MISSION 02/5 *20,Lalitpur,Bungamati,and also Lubhu VDC,27.6211,85.303,27.58333,85.33333,2-May-15
+,,Piyush,,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 02/5 *20,Lalitpur,Bungamati,and also Lubhu VDC,27.6211,85.303,27.58333,85.33333,2-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 02/5 *21,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Medicine - rehydration,,Medicine,unit,260,Undefined,#VALUE!,MISSION 02/5 *21,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Masks,,Sanitation - supplies,box,3,Undefined,#VALUE!,MISSION 02/5 *21,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,12,Undefined,#VALUE!,MISSION 02/5 *21,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Piyush,,Sanitation - Water purification,bottle,15,Undefined,#VALUE!,MISSION 02/5 *21,Dhading,Marpak,,28.0135,84.9646,28,84.91667,2-May-15
+,,Biscuits,,Food - Dry Food,box,1,4.5,4.5,MISSION 03/5 *01,Makwanpur,Hurnamadi,Phulbari and Ghadi,27.37221,85.15362,27.41667,85.25,3-May-15
+,,Dalmot,,Food - Dry Food,pack,2,1,2,MISSION 03/5 *01,Makwanpur,Hurnamadi,Phulbari and Ghadi,27.37221,85.15362,27.41667,85.25,3-May-15
+,,Noodles,,Food - Dry Food,box,1,4.5,4.5,MISSION 03/5 *01,Makwanpur,Hurnamadi,Phulbari and Ghadi,27.37221,85.15362,27.41667,85.25,3-May-15
+,,Tarp,,Shelter,unit,1,Undefined,#VALUE!,MISSION 03/5 *01,Makwanpur,Hurnamadi,Phulbari and Ghadi,27.37221,85.15362,27.41667,85.25,3-May-15
+,,Noodles,,Food - Dry Food,box,4,4.5,18,MISSION 03/5 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,3-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 03/5 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,3-May-15
+,,Piyush,,Sanitation - Water purification,bottle,1,Undefined,#VALUE!,MISSION 03/5 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,3-May-15
+,,Tarp,,Shelter,unit,25,Undefined,#VALUE!,MISSION 03/5 *02,Lalitpur,Bukhel,and also Choughare VDC,27.4958,85.3634,27.58333,85.33333,3-May-15
+,,Tarp,,Shelter,unit,7,Undefined,#VALUE!,MISSION 03/5 *03,Gorkha,Tandrang,,28.0337,84.7752,28.33333,84.83333,3-May-15
+,,Tarp,,Shelter,unit,13,Undefined,#VALUE!,MISSION 03/5 *04,Gorkha,Gakhu,Dandagaun,28.06,84.6238,28.33333,84.83333,3-May-15
+,,Tarp,,Shelter,unit,12,Undefined,#VALUE!,MISSION 03/5 *05,Gorkha,Takukot,,28.076,84.6867,28.33333,84.83333,3-May-15
+,,Beaten Rice,,Food - Dry Food,sack,9,25,225,MISSION 03/5 *06,Dhading,Jyamrung,Nayagaun,27.976,84.8736,28,84.91667,3-May-15
+,,Matress,,Shelter,unit,12,Undefined,#VALUE!,MISSION 03/5 *06,Dhading,Jyamrung,Nayagaun,27.976,84.8736,28,84.91667,3-May-15
+,,Water,,Food - Drinks,bottle,1,Undefined,#VALUE!,MISSION 03/5 *07,Nuwakot,Thanapati,,27.84068,85.2943,27.964,83.0549,3-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 03/5 *07,Nuwakot,Thanapati,,27.84068,85.2943,27.964,83.0549,3-May-15
+,,Dal,,Food - Dry Food,pack,1,1,1,MISSION 03/5 *07,Nuwakot,Thanapati,,27.84068,85.2943,27.964,83.0549,3-May-15
+,,Noodles,,Food - Dry Food,box,216,4.5,972,MISSION 03/5 *07,Nuwakot,Thanapati,,27.84068,85.2943,27.964,83.0549,3-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 03/5 *07,Nuwakot,Thanapati,,27.84068,85.2943,27.964,83.0549,3-May-15
+,,Beaten Rice,,Food - Dry Food,sack,1,25,25,MISSION 03/5 *08,Dhading,Dhola,Chedi/Guthgaun/Dhuaga/Dhuwako,27.9168,84.8315,28,84.91667,3-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 03/5 *08,Dhading,Dhola,Chedi/Guthgaun/Dhuaga/Dhuwako,27.9168,84.8315,28,84.91667,3-May-15
+,,Noodles,,Food - Dry Food,box,1,4.5,4.5,MISSION 03/5 *08,Dhading,Dhola,Chedi/Guthgaun/Dhuaga/Dhuwako,27.9168,84.8315,28,84.91667,3-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 03/5 *08,Dhading,Dhola,Chedi/Guthgaun/Dhuaga/Dhuwako,27.9168,84.8315,28,84.91667,3-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 03/5 *08,Dhading,Dhola,Chedi/Guthgaun/Dhuaga/Dhuwako,27.9168,84.8315,28,84.91667,3-May-15
+,,Medicine - rehydration,,Medicine,unit,200,Undefined,#VALUE!,MISSION 03/5 *08,Dhading,Dhola,Chedi/Guthgaun/Dhuaga/Dhuwako,27.9168,84.8315,28,84.91667,3-May-15
+,,Plastic rolls,,Shelter,rolls,4,Undefined,#VALUE!,MISSION 03/5 *08,Dhading,Dhola,Chedi/Guthgaun/Dhuaga/Dhuwako,27.9168,84.8315,28,84.91667,3-May-15
+,,Tarp,,Shelter,unit,2,Undefined,#VALUE!,MISSION 03/5 *09,Kabhre Palanchok,Raviopi,,27.6432,85.5682,27.58333,85.66667,3-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 03/5 *10,Nuwakot,Okharpauwa,Kagatigaun,27.79251,85.25337,27.964,83.0549,3-May-15
+,,Medicine - rehydration,,Medicine,unit,100,Undefined,#VALUE!,MISSION 03/5 *10,Nuwakot,Okharpauwa,Kagatigaun,27.79251,85.25337,27.964,83.0549,3-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,72,Undefined,#VALUE!,MISSION 03/5 *10,Nuwakot,Okharpauwa,Kagatigaun,27.79251,85.25337,27.964,83.0549,3-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,60,Undefined,#VALUE!,MISSION 03/5 *10,Nuwakot,Okharpauwa,Kagatigaun,27.79251,85.25337,27.964,83.0549,3-May-15
+,,Piyush,,Sanitation - Water purification,bottle,3,Undefined,#VALUE!,MISSION 03/5 *10,Nuwakot,Okharpauwa,Kagatigaun,27.79251,85.25337,27.964,83.0549,3-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,150,Undefined,#VALUE!,MISSION 03/5 *10,Nuwakot,Okharpauwa,Kagatigaun,27.79251,85.25337,27.964,83.0549,3-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 03/5 *10,Nuwakot,Okharpauwa,Kagatigaun,27.79251,85.25337,27.964,83.0549,3-May-15
+,,Water,,Food - Drinks,bottle,4,Undefined,#VALUE!,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Medicine - rehydration,,Medicine,unit,24,Undefined,#VALUE!,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,1,Undefined,#VALUE!,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,72,Undefined,#VALUE!,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Lime,,Shelter,pack,8,Undefined,#VALUE!,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Plastic rolls,,Shelter,rolls,5,Undefined,#VALUE!,MISSION 03/5 *11,Kathmandu District,Baad Bhanjyang,,27.70476,85.2104,27.70704,85.33218,3-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 03/5 *12,Lalitpur,Khokana,,27.6416,85.2962,27.58333,85.33333,3-May-15
+,,Diapers,,Sanitation - Children supplies,unit,120,Undefined,#VALUE!,MISSION 03/5 *12,Lalitpur,Khokana,,27.6416,85.2962,27.58333,85.33333,3-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,5,Undefined,#VALUE!,MISSION 03/5 *12,Lalitpur,Khokana,,27.6416,85.2962,27.58333,85.33333,3-May-15
+,,Piyush,,Sanitation - Water purification,bottle,10,Undefined,#VALUE!,MISSION 03/5 *12,Lalitpur,Khokana,,27.6416,85.2962,27.58333,85.33333,3-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 03/5 *13,Sindhupalchok,Sipapokhare,,27.76221,85.6291,27.82936,85.54504,3-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 03/5 *13,Sindhupalchok,Sipapokhare,,27.76221,85.6291,27.82936,85.54504,3-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 03/5 *13,Sindhupalchok,Sipapokhare,,27.76221,85.6291,27.82936,85.54504,3-May-15
+,,Salt,,Food - Dry Food,pack,5,1,5,MISSION 03/5 *13,Sindhupalchok,Sipapokhare,,27.76221,85.6291,27.82936,85.54504,3-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,15,Undefined,#VALUE!,MISSION 03/5 *13,Sindhupalchok,Sipapokhare,,27.76221,85.6291,27.82936,85.54504,3-May-15
+,,Beaten Rice,,Food - Dry Food,sack,1,25,25,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Salt,,Food - Dry Food,pack,3,1,3,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,60,Undefined,#VALUE!,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Lime,,Shelter,pack,5,Undefined,#VALUE!,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 03/5 *14,Dhading,Salyantar,,27.99348,84.81247,28,84.91667,3-May-15
+,,Medicine - rehydration,,Medicine,unit,200,Undefined,#VALUE!,MISSION 03/5 *15,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,3-May-15
+,,Biscuits,,Food - Dry Food,box,4,4.5,18,MISSION 03/5 *16,Bhaktapur,BhaktapurN.P.,Dattatraya,27.6748,85.4319,27.66734,85.41673,3-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 03/5 *16,Bhaktapur,BhaktapurN.P.,Dattatraya,27.6748,85.4319,27.66734,85.41673,3-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 03/5 *16,Bhaktapur,BhaktapurN.P.,Dattatraya,27.6748,85.4319,27.66734,85.41673,3-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,10,Undefined,#VALUE!,MISSION 03/5 *16,Bhaktapur,BhaktapurN.P.,Dattatraya,27.6748,85.4319,27.66734,85.41673,3-May-15
+,,Medicine - rehydration,,Medicine,unit,50,Undefined,#VALUE!,MISSION 03/5 *17,Kathmandu District,KirtipurN.P.,Panga,27.67088,85.27748,27.70704,85.33218,3-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,100,Undefined,#VALUE!,MISSION 03/5 *17,Kathmandu District,KirtipurN.P.,Panga,27.67088,85.27748,27.70704,85.33218,3-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 03/5 *18,Bhaktapur,BhaktapurN.P.,Pottery Square,27.6748,85.4319,27.66734,85.41673,3-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 03/5 *18,Bhaktapur,BhaktapurN.P.,Pottery Square,27.6748,85.4319,27.66734,85.41673,3-May-15
+,,Lime,,Shelter,pack,5,Undefined,#VALUE!,MISSION 03/5 *18,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,3-May-15
+,,Biscuits,,Food - Dry Food,box,1,4.5,4.5,MISSION 03/5 *19,Gorkha,Takumajhalakuribot,Lakuri,28.1006,84.681,28.33333,84.83333,3-May-15
+,,Noodles,,Food - Dry Food,box,1,4.5,4.5,MISSION 03/5 *19,Gorkha,Takumajhalakuribot,Lakuri,28.1006,84.681,28.33333,84.83333,3-May-15
+,,Blankets,,Shelter,unit,3,Undefined,#VALUE!,MISSION 03/5 *19,Gorkha,Takumajhalakuribot,Lakuri,28.1006,84.681,28.33333,84.83333,3-May-15
+,,Plastic rolls,,Shelter,rolls,4,Undefined,#VALUE!,MISSION 03/5 *19,Gorkha,Takumajhalakuribot,Lakuri,28.1006,84.681,28.33333,84.83333,3-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 03/5 *20,Dhading,Jharlang,Sertung,28.0988,85.0627,28,84.91667,3-May-15
+,,Beaten Rice,,Food - Dry Food,sack,4,25,100,MISSION 03/5 *21,Kathmandu District,Gokarneswor,Thali,27.73878,85.39494,27.70704,85.33218,3-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 03/5 *21,Kathmandu District,Gokarneswor,Thali,27.73878,85.39494,27.70704,85.33218,3-May-15
+,,Noodles,,Food - Dry Food,box,4,4.5,18,MISSION 03/5 *21,Kathmandu District,Gokarneswor,Thali,27.73878,85.39494,27.70704,85.33218,3-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 03/5 *21,Kathmandu District,Gokarneswor,Thali,27.73878,85.39494,27.70704,85.33218,3-May-15
+,,Beaten Rice,,Food - Dry Food,sack,5,25,125,MISSION 03/5 *22,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,3-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 03/5 *22,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,3-May-15
+,,Noodles,,Food - Dry Food,box,4,4.5,18,MISSION 03/5 *22,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,3-May-15
+,,Lime,,Shelter,pack,5,Undefined,#VALUE!,MISSION 03/5 *22,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,3-May-15
+,,Rope,,Shelter,unit,2,Undefined,#VALUE!,MISSION 03/5 *22,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,3-May-15
+,,Tarp,,Shelter,unit,68,Undefined,#VALUE!,MISSION 03/5 *22,Sindhupalchok,Jalbire,,27.82148,85.78307,27.82936,85.54504,3-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 03/5 *23,Lalitpur,Bhattedanda,,27.5108,85.2961,27.58333,85.33333,3-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 03/5 *23,Lalitpur,Bhattedanda,,27.5108,85.2961,27.58333,85.33333,3-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,10,Undefined,#VALUE!,MISSION 03/5 *23,Lalitpur,Bhattedanda,,27.5108,85.2961,27.58333,85.33333,3-May-15
+,,Biscuits,,Food - Dry Food,box,20,4.5,90,MISSION 04/5 *01,Nuwakot,Balkumari,and also Samundratar VDC,27.90506,85.38717,27.964,83.0549,4-May-15
+,,Noodles,,Food - Dry Food,box,1,4.5,4.5,MISSION 04/5 *01,Nuwakot,Balkumari,and also Samundratar VDC,27.90506,85.38717,27.964,83.0549,4-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 04/5 *01,Nuwakot,Balkumari,and also Samundratar VDC,27.90506,85.38717,27.964,83.0549,4-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,12,Undefined,#VALUE!,MISSION 04/5 *01,Nuwakot,Balkumari,and also Samundratar VDC,27.90506,85.38717,27.964,83.0549,4-May-15
+,,Blankets,,Shelter,unit,1,Undefined,#VALUE!,MISSION 04/5 *01,Nuwakot,Balkumari,and also Samundratar VDC,27.90506,85.38717,27.964,83.0549,4-May-15
+,,Tarp,,Shelter,unit,5,Undefined,#VALUE!,MISSION 04/5 *01,Nuwakot,Balkumari,and also Samundratar VDC,27.90506,85.38717,27.964,83.0549,4-May-15
+,,Beaten Rice,,Food - Dry Food,sack,5,25,125,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Dal,,Food - Dry Food,pack,2,1,2,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Salt,,Food - Dry Food,pack,17,1,17,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,1160,Undefined,#VALUE!,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Lime,,Shelter,pack,20,Undefined,#VALUE!,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Tarp,,Shelter,unit,121,Undefined,#VALUE!,MISSION 04/5 *02,Dhading,Marpak,Nimachok,28.0135,84.9646,28,84.91667,4-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 04/5 *03,Nuwakot,Kakani,Ranipauwa,27.81948,85.25691,27.964,83.0549,4-May-15
+,,Medicine - rehydration,,Medicine,unit,100,Undefined,#VALUE!,MISSION 04/5 *03,Nuwakot,Kakani,Ranipauwa,27.81948,85.25691,27.964,83.0549,4-May-15
+,,Piyush,,Sanitation - Water purification,bottle,4,Undefined,#VALUE!,MISSION 04/5 *03,Nuwakot,Kakani,Ranipauwa,27.81948,85.25691,27.964,83.0549,4-May-15
+,,Tarp,,Shelter,unit,1,Undefined,#VALUE!,MISSION 04/5 *04,Sindhupalchok,Yamunadanda,Simpani,27.72236,85.79753,27.82936,85.54504,4-May-15
+,,Biscuits,,Food - Dry Food,box,3,4.5,13.5,MISSION 04/5 *05,Lalitpur,Godawari,ward,27.59628,85.37102,27.58333,85.33333,4-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 04/5 *05,Lalitpur,Godawari,ward,27.59628,85.37102,27.58333,85.33333,4-May-15
+,,Medicine - surgical,,Medicine,unit,20,Undefined,#VALUE!,MISSION 04/5 *05,Lalitpur,Godawari,ward,27.59628,85.37102,27.58333,85.33333,4-May-15
+,,Masks,,Sanitation - supplies,box,3,Undefined,#VALUE!,MISSION 04/5 *05,Lalitpur,Godawari,ward,27.59628,85.37102,27.58333,85.33333,4-May-15
+,,Blankets,,Shelter,unit,5,Undefined,#VALUE!,MISSION 04/5 *05,Lalitpur,Godawari,ward,27.59628,85.37102,27.58333,85.33333,4-May-15
+,,Tarp,,Shelter,unit,4,Undefined,#VALUE!,MISSION 04/5 *05,Lalitpur,Godawari,ward,27.59628,85.37102,27.58333,85.33333,4-May-15
+,,Biscuits,,Food - Dry Food,box,3,4.5,13.5,MISSION 04/5 *06,Gorkha,Tandrang,Darme,28.0337,84.7752,28.33333,84.83333,4-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 04/5 *06,Gorkha,Tandrang,Darme,28.0337,84.7752,28.33333,84.83333,4-May-15
+,,Children milk,,Sanitation - Children supplies,pack,1,Undefined,#VALUE!,MISSION 04/5 *06,Gorkha,Tandrang,Darme,28.0337,84.7752,28.33333,84.83333,4-May-15
+,,Masks,,Sanitation - supplies,box,1,Undefined,#VALUE!,MISSION 04/5 *06,Gorkha,Tandrang,Darme,28.0337,84.7752,28.33333,84.83333,4-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 04/5 *06,Gorkha,Tandrang,Darme,28.0337,84.7752,28.33333,84.83333,4-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 04/5 *06,Gorkha,Tandrang,Darme,28.0337,84.7752,28.33333,84.83333,4-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 04/5 *07,Lalitpur,Lele,Thapagaun,27.5615,85.3303,27.58333,85.33333,4-May-15
+,,Medicine - drug,,Medicine,tabs,800,Undefined,#VALUE!,MISSION 04/5 *07,Lalitpur,Lele,Thapagaun,27.5615,85.3303,27.58333,85.33333,4-May-15
+,,Medicine - rehydration,,Medicine,unit,220,Undefined,#VALUE!,MISSION 04/5 *07,Lalitpur,Lele,Thapagaun,27.5615,85.3303,27.58333,85.33333,4-May-15
+,,Masks,,Sanitation - supplies,box,2,Undefined,#VALUE!,MISSION 04/5 *07,Lalitpur,Lele,Thapagaun,27.5615,85.3303,27.58333,85.33333,4-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,20,Undefined,#VALUE!,MISSION 04/5 *07,Lalitpur,Lele,Thapagaun,27.5615,85.3303,27.58333,85.33333,4-May-15
+,,Masks,,Sanitation - supplies,box,1,Undefined,#VALUE!,MISSION 04/5 *08,Kathmandu District,Thankot,Matshya,27.69253,85.21606,27.70704,85.33218,4-May-15
+,,Piyush,,Sanitation - Water purification,bottle,20,Undefined,#VALUE!,MISSION 04/5 *08,Kathmandu District,Thankot,Matshya,27.69253,85.21606,27.70704,85.33218,4-May-15
+,,Tarp,,Shelter,unit,9,Undefined,#VALUE!,MISSION 04/5 *09,Lalitpur,Khokana,Karyabinayak,27.6416,85.2962,27.58333,85.33333,4-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Dal,,Food - Dry Food,pack,1,1,1,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Rice,,Food - Dry Food,sack,6,25,150,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,1920,Undefined,#VALUE!,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Blankets,,Shelter,unit,30,Undefined,#VALUE!,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Lime,,Shelter,pack,10,Undefined,#VALUE!,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Matress,,Shelter,unit,50,Undefined,#VALUE!,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Tarp,,Shelter,unit,100,Undefined,#VALUE!,MISSION 04/5 *10,Gorkha,Shreenathkot,Hansapur,28.087,84.6393,28.33333,84.83333,4-May-15
+,,Medicine - rehydration,,Medicine,unit,80,Undefined,#VALUE!,MISSION 04/5 *11,Kabhre Palanchok,Chisapani,Rayale,27.41486,86.05664,27.58333,85.66667,4-May-15
+,,Medicine - drug,,Medicine,tabs,250,Undefined,#VALUE!,MISSION 04/5 *12,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,4-May-15
+,,Diapers,,Sanitation - Children supplies,unit,36,Undefined,#VALUE!,MISSION 04/5 *12,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,4-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,60,Undefined,#VALUE!,MISSION 04/5 *12,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,4-May-15
+,,Piyush,,Sanitation - Water purification,bottle,5,Undefined,#VALUE!,MISSION 04/5 *12,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,4-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 04/5 *12,Bhaktapur,Kautunje,Suryabinayak,27.6636,85.4115,27.66734,85.41673,4-May-15
+,,Biscuits,,Food - Dry Food,box,2,4.5,9,MISSION 04/5 *13,Kathmandu District,Aalapot,"Kageshwari, Halapur",27.74768,85.43146,27.70704,85.33218,4-May-15
+,,Noodles,,Food - Dry Food,box,2,4.5,9,MISSION 04/5 *13,Kathmandu District,Aalapot,"Kageshwari, Halapur",27.74768,85.43146,27.70704,85.33218,4-May-15
+,,Rice,,Food - Dry Food,sack,1,25,25,MISSION 04/5 *13,Kathmandu District,Aalapot,"Kageshwari, Halapur",27.74768,85.43146,27.70704,85.33218,4-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 04/5 *13,Kathmandu District,Aalapot,"Kageshwari, Halapur",27.74768,85.43146,27.70704,85.33218,4-May-15
+,,Medicine - rehydration,,Medicine,unit,80,Undefined,#VALUE!,MISSION 04/5 *13,Kathmandu District,Aalapot,"Kageshwari, Halapur",27.74768,85.43146,27.70704,85.33218,4-May-15
+,,Piyush,,Sanitation - Water purification,bottle,5,Undefined,#VALUE!,MISSION 04/5 *13,Kathmandu District,Aalapot,"Kageshwari, Halapur",27.74768,85.43146,27.70704,85.33218,4-May-15
+,,Plastic rolls,,Shelter,rolls,13,Undefined,#VALUE!,MISSION 04/5 *13,Kathmandu District,Aalapot,"Kageshwari, Halapur",27.74768,85.43146,27.70704,85.33218,4-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 04/5 *14,Gorkha,Dhawa,Chautara,28.0134,84.7823,28.33333,84.83333,4-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,36,Undefined,#VALUE!,MISSION 04/5 *14,Gorkha,Dhawa,Chautara,28.0134,84.7823,28.33333,84.83333,4-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 04/5 *14,Gorkha,Dhawa,Chautara,28.0134,84.7823,28.33333,84.83333,4-May-15
+,,Beaten Rice,,Food - Dry Food,sack,20,25,500,MISSION 05/5 *02,Lalitpur,Dukuchhap,ChampiWard,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Noodles,,Food - Dry Food,box,24,4.5,108,MISSION 05/5 *02,Lalitpur,Dukuchhap,ChampiWard,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 05/5 *02,Lalitpur,Dukuchhap,ChampiWard,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Blankets,,Shelter,unit,15,Undefined,#VALUE!,MISSION 05/5 *02,Lalitpur,Dukuchhap,ChampiWard,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Lime,,Shelter,pack,15,Undefined,#VALUE!,MISSION 05/5 *02,Lalitpur,Dukuchhap,ChampiWard,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Rope,,Shelter,unit,20,Undefined,#VALUE!,MISSION 05/5 *02,Lalitpur,Dukuchhap,ChampiWard,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Tarp,,Shelter,unit,50,Undefined,#VALUE!,MISSION 05/5 *02,Lalitpur,Dukuchhap,ChampiWard,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Biscuits,,Food - Dry Food,box,7,4.5,31.5,MISSION 05/5 *03,Lalitpur,LalitpurN.P.,,27.6691,85.3199,27.58333,85.33333,5-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 05/5 *03,Lalitpur,LalitpurN.P.,,27.6691,85.3199,27.58333,85.33333,5-May-15
+,,Diapers,,Sanitation - Children supplies,unit,4,Undefined,#VALUE!,MISSION 05/5 *03,Lalitpur,LalitpurN.P.,,27.6691,85.3199,27.58333,85.33333,5-May-15
+,,Blankets,,Shelter,unit,5,Undefined,#VALUE!,MISSION 05/5 *03,Lalitpur,LalitpurN.P.,,27.6691,85.3199,27.58333,85.33333,5-May-15
+,,Water,,Food - Drinks,bottle,24,Undefined,#VALUE!,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Food,,Food - Supplies,pack,28,Undefined,#VALUE!,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Noodles,,Food - Dry Food,box,4,4.5,18,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Rice,,Food - Dry Food,sack,6,25,150,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Food packages,,Food - Supplies,unit,100,Undefined,#VALUE!,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Salt,,Food - Dry Food,pack,20,1,20,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Blankets,,Shelter,unit,40,Undefined,#VALUE!,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Lime,,Shelter,pack,6,Undefined,#VALUE!,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Phenyl,,Shelter,bottle,2,Undefined,#VALUE!,MISSION 05/5 *04,Dhading,Marpak,,28.0135,84.9646,28,84.91667,5-May-15
+,,Water,,Food - Drinks,bottle,12,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2.5,25,62.5,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Dal,,Food - Dry Food,pack,17,1,17,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Food,,Food - Supplies,pack,16,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Salt,,Food - Dry Food,pack,20,1,20,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Medical Kit,,Medicine,unit,5,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Medicine - rehydration,,Medicine,unit,200,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,60,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Piyush,,Sanitation - Water purification,bottle,10,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Blankets,,Shelter,unit,42,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Lime,,Shelter,pack,6,Undefined,#VALUE!,MISSION 05/5 *05,Dolakha,Dolakha,,27.83333,86.25,27.83333,86.25,5-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 05/5 *06,Gorkha,Chhoprak,Cheuri,28.0556,84.5881,28.33333,84.83333,5-May-15
+,,Blankets,,Shelter,unit,20,Undefined,#VALUE!,MISSION 05/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,5-May-15
+,,Tarp,,Shelter,unit,40,Undefined,#VALUE!,MISSION 05/5 *09,Lalitpur,Dukuchhap,,27.5901,85.2969,27.58333,85.33333,5-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 05/5 *08,Gorkha,Taple,"and also Masel, Baguwa, Dhawa, Boralang",28.0254,84.6775,28.33333,84.83333,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *01,Gorkha,Aanppipal,"Bhorle, Jaljale, Sunodumre, Pachchyan",28.0687,84.5334,28.33333,84.83333,6-May-15
+,,Medicine - rehydration,,Medicine,unit,60,Undefined,#VALUE!,MISSION 06/5 *01,Gorkha,Aanppipal,"Bhorle, Jaljale, Sunodumre, Pachchyan",28.0687,84.5334,28.33333,84.83333,6-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,1,Undefined,#VALUE!,MISSION 06/5 *01,Gorkha,Aanppipal,"Bhorle, Jaljale, Sunodumre, Pachchyan",28.0687,84.5334,28.33333,84.83333,6-May-15
+,,Piyush,,Sanitation - Water purification,bottle,5,Undefined,#VALUE!,MISSION 06/5 *01,Gorkha,Aanppipal,"Bhorle, Jaljale, Sunodumre, Pachchyan",28.0687,84.5334,28.33333,84.83333,6-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,750,Undefined,#VALUE!,MISSION 06/5 *01,Gorkha,Aanppipal,"Bhorle, Jaljale, Sunodumre, Pachchyan",28.0687,84.5334,28.33333,84.83333,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *02,Sindhupalchok,Mahankal,Sera,27.88694,85.51056,27.82936,85.54504,6-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,50,Undefined,#VALUE!,MISSION 06/5 *02,Sindhupalchok,Mahankal,Sera,27.88694,85.51056,27.82936,85.54504,6-May-15
+,,Sanitary pads,,Sanitation - supplies,pack,460,Undefined,#VALUE!,MISSION 06/5 *02,Sindhupalchok,Mahankal,Sera,27.88694,85.51056,27.82936,85.54504,6-May-15
+,,Biscuits,,Food - Dry Food,box,2,4.5,9,MISSION 06/5 *03,Kathmandu District,KathmanduN.P.,Swayambunath,27.70731,85.32218,27.70704,85.33218,6-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 06/5 *03,Kathmandu District,KathmanduN.P.,Swayambunath,27.70731,85.32218,27.70704,85.33218,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *03,Kathmandu District,KathmanduN.P.,Swayambunath,27.70731,85.32218,27.70704,85.33218,6-May-15
+,,Masks,,Sanitation - supplies,unit,200,Undefined,#VALUE!,MISSION 06/5 *03,Kathmandu District,KathmanduN.P.,Swayambunath,27.70731,85.32218,27.70704,85.33218,6-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 06/5 *03,Kathmandu District,KathmanduN.P.,Swayambunath,27.70731,85.32218,27.70704,85.33218,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *04,Rasuwa,Langtang,,28.20692,85.51986,28.16667,85.33333,6-May-15
+,,Medicine - rehydration,,Medicine,unit,50,Undefined,#VALUE!,MISSION 06/5 *04,Rasuwa,Langtang,,28.20692,85.51986,28.16667,85.33333,6-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,100,Undefined,#VALUE!,MISSION 06/5 *04,Rasuwa,Langtang,,28.20692,85.51986,28.16667,85.33333,6-May-15
+,,Water,,Food - Drinks,pack,1,Undefined,#VALUE!,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Beaten Rice,,Food - Dry Food,sack,6,25,150,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Dal,,Food - Dry Food,sack,4,25,100,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Noodles,,Food - Dry Food,box,21,4.5,94.5,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Noodles,,Food - Dry Food,sack,6,25,150,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Salt,,Food - Dry Food,sack,0.5,25,12.5,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Medicine - supplies,,Sanitation - supplies,box,2,Undefined,#VALUE!,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Blankets,,Shelter,unit,61,Undefined,#VALUE!,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Rope,,Shelter,unit,5,Undefined,#VALUE!,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Tarp,,Shelter,unit,50,Undefined,#VALUE!,MISSION 06/5 *05,Sindhupalchok,Hagam,Yanlakot,27.83164,85.81236,27.82936,85.54504,6-May-15
+,,Medicine - rehydration,,Medicine,unit,500,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,20,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Piyush,,Sanitation - Water purification,bottle,10,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,200,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Tarp,,Shelter,unit,25,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Beaten Rice,,Food - Dry Food,sack,1,25,25,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Piyush,,Sanitation - Water purification,bottle,2,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,150,Undefined,#VALUE!,MISSION 06/5 *06,Sindhupalchok,Baruwa,Yarsa/Bhothang/Yangri/Bolgun,27.96275,85.61778,27.82936,85.54504,6-May-15
+,,Dal,,Food - Dry Food,sack,1,25,25,MISSION 06/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,6-May-15
+,,Rice,,Food - Dry Food,sack,8,25,200,MISSION 06/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,6-May-15
+,,Oil,,Food - Dry Food,bottle,50,1,50,MISSION 06/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,6-May-15
+,,Salt,,Food - Dry Food,pack,18,1,18,MISSION 06/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,6-May-15
+,,Blankets,,Shelter,unit,30,Undefined,#VALUE!,MISSION 06/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,6-May-15
+,,Plastic rolls,,Shelter,rolls,1,Undefined,#VALUE!,MISSION 06/5 *07,Kabhre Palanchok,Kavrenityachandeswor,Badal Gaun,27.61,85.5832,27.58333,85.66667,6-May-15
+,,Dal,,Food - Dry Food,pack,30,1,30,MISSION 06/5 *08,Sindhupalchok,Sangachok,Panichaur,27.69532,85.72073,27.82936,85.54504,6-May-15
+,,Rice,,Food - Dry Food,sack,4,25,100,MISSION 06/5 *08,Sindhupalchok,Sangachok,Panichaur,27.69532,85.72073,27.82936,85.54504,6-May-15
+,,Oil,,Food - Dry Food,bottle,30,1,30,MISSION 06/5 *08,Sindhupalchok,Sangachok,Panichaur,27.69532,85.72073,27.82936,85.54504,6-May-15
+,,Salt,,Food - Dry Food,pack,12,1,12,MISSION 06/5 *08,Sindhupalchok,Sangachok,Panichaur,27.69532,85.72073,27.82936,85.54504,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *08,Sindhupalchok,Sangachok,Panichaur,27.69532,85.72073,27.82936,85.54504,6-May-15
+,,Blankets,,Shelter,unit,20,Undefined,#VALUE!,MISSION 06/5 *08,Sindhupalchok,Sangachok,Panichaur,27.69532,85.72073,27.82936,85.54504,6-May-15
+,,Plastic rolls,,Shelter,rolls,24,Undefined,#VALUE!,MISSION 06/5 *08,Sindhupalchok,Sangachok,Panichaur,27.69532,85.72073,27.82936,85.54504,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *09,Nuwakot,Kakani,Dovan,27.81948,85.25691,27.964,83.0549,6-May-15
+,,Medicine - rehydration,,Medicine,unit,110,Undefined,#VALUE!,MISSION 06/5 *09,Nuwakot,Kakani,Dovan,27.81948,85.25691,27.964,83.0549,6-May-15
+,,Masks,,Sanitation - supplies,box,1,Undefined,#VALUE!,MISSION 06/5 *09,Nuwakot,Kakani,Dovan,27.81948,85.25691,27.964,83.0549,6-May-15
+,,Sanitary pads,,Sanitation - supplies,unit,25,Undefined,#VALUE!,MISSION 06/5 *09,Nuwakot,Kakani,Dovan,27.81948,85.25691,27.964,83.0549,6-May-15
+,,Medicine - drug,,Medicine,tabs,110,Undefined,#VALUE!,MISSION 06/5 *10,Sindhupalchok,Thakani,Ningale Village,27.84258,85.48731,27.82936,85.54504,6-May-15
+,,Blankets,,Shelter,unit,15,Undefined,#VALUE!,MISSION 06/5 *10,Sindhupalchok,Thakani,Ningale Village,27.84258,85.48731,27.82936,85.54504,6-May-15
+,,Tarp,,Shelter,unit,15,Undefined,#VALUE!,MISSION 06/5 *10,Sindhupalchok,Thakani,Ningale Village,27.84258,85.48731,27.82936,85.54504,6-May-15
+,,Tarp,,Shelter,unit,5,Undefined,#VALUE!,MISSION 06/5 *11,Sindhuli,Puranojhangajholi,Khanikhadka,27.3751,85.8963,27.25,86,6-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 06/5 *12,Sindhupalchok,Bahrabise,Thulopalati,27.45679,87.32787,27.82936,85.54504,6-May-15
+,,Beaten Rice,,Food - Dry Food,sack,12,25,300,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Dal,,Food - Dry Food,pack,20,1,20,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Food,,Food - Supplies,pack,14,Undefined,#VALUE!,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Noodles,,Food - Dry Food,pack,2,1,2,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Rice,,Food - Dry Food,sack,25,25,625,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Salt,,Food - Dry Food,pack,5,1,5,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Sugar,,Food - Dry Food,pack,5,1,5,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Blankets,,Shelter,unit,20,Undefined,#VALUE!,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Tarp,,Shelter,unit,100,Undefined,#VALUE!,MISSION 07/5 *01,Sindhupalchok,Dhuyang,"Ghumtang, Dandagaun, Kolbari, Kimbegaun, Khanyabas, Devchagaun, Chapleti",27.85199,85.85637,27.82936,85.54504,7-May-15
+,,Dal,,Food - Dry Food,sack,50,25,1250,MISSION 07/5 *02,Nuwakot,Sikre,Baskote Gaun,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Noodles,,Food - Dry Food,box,6,4.5,27,MISSION 07/5 *02,Nuwakot,Sikre,Baskote Gaun,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Rice,,Food - Dry Food,sack,55,25,1375,MISSION 07/5 *02,Nuwakot,Sikre,Baskote Gaun,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Matress,,Shelter,unit,55,Undefined,#VALUE!,MISSION 07/5 *02,Nuwakot,Sikre,Baskote Gaun,27.83895,85.37597,27.964,83.0549,7-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,20,Undefined,#VALUE!,MISSION 07/5 *02,Nuwakot,Sikre,Baskote Gaun,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Sanitary pads,,Sanitation - supplies,box,2,Undefined,#VALUE!,MISSION 07/5 *03,Lalitpur,Lubhu,and also Siddhipur VDC,27.6359,85.3754,27.58333,85.33333,7-May-15
+,,Water,,Food - Drinks,pack,12,Undefined,#VALUE!,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Beaten Rice,,Food - Dry Food,sack,4,25,100,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Biscuits,,Food - Dry Food,box,4,4.5,18,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Dal,,Food - Dry Food,pack,10,1,10,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Dalmot,,Food - Dry Food,pack,12,1,12,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Noodles,,Food - Dry Food,sack,1,25,25,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Rice,,Food - Dry Food,sack,13,25,325,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Salt,,Food - Dry Food,pack,15,1,15,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Medical Kit,,Medicine,unit,5,Undefined,#VALUE!,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Medicine - rehydration,,Medicine,tabs,420,Undefined,#VALUE!,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,100,Undefined,#VALUE!,MISSION 07/5 *04,Ramechhap,Gumdel,"Pekanas, Thado Khola, Koryam",27.64091,86.42334,27.3303,86.06458,7-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 07/5 *05,Nuwakot,Sikre,,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Medicine - rehydration,,Medicine,tabs,110,Undefined,#VALUE!,MISSION 07/5 *05,Nuwakot,Sikre,,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Sanitary pads,,Sanitation - supplies,box,2,Undefined,#VALUE!,MISSION 07/5 *05,Nuwakot,Sikre,,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Piyush,,Sanitation - Water purification,bottle,6,Undefined,#VALUE!,MISSION 07/5 *05,Nuwakot,Sikre,,27.83895,85.37597,27.964,83.0549,7-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 07/5 *06,Dhading,ChhatreDyaurali,,27.7485,85.227,28,84.91667,7-May-15
+,,Medicine - rehydration,,Medicine,box,1,Undefined,#VALUE!,MISSION 07/5 *06,Dhading,ChhatreDyaurali,,27.7485,85.227,28,84.91667,7-May-15
+,,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 07/5 *06,Dhading,ChhatreDyaurali,,27.7485,85.227,28,84.91667,7-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 07/5 *07,Dhading,Sangkosh,Apswara,27.9395,84.9118,28,84.91667,7-May-15
+,,Medicine - rehydration,,Medicine,unit,48,Undefined,#VALUE!,MISSION 07/5 *07,Dhading,Sangkosh,Apswara,27.9395,84.9118,28,84.91667,7-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 07/5 *07,Dhading,Sangkosh,Apswara,27.9395,84.9118,28,84.91667,7-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,25,Undefined,#VALUE!,MISSION 07/5 *07,Dhading,Sangkosh,Apswara,27.9395,84.9118,28,84.91667,7-May-15
+,,Beaten Rice,,Food - Dry Food,sack,63,25,1575,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Biscuits,,Food - Dry Food,box,6,4.5,27,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Dal,,Food - Dry Food,sack,2,25,50,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Noodles,,Food - Dry Food,pack,74,1,74,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Rice,,Food - Dry Food,sack,3,25,75,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Salt,,Food - Dry Food,pack,8,1,8,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Medicine - rehydration,,Medicine,box,2,Undefined,#VALUE!,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Medicine - supplies,,Sanitation - supplies,box,2,Undefined,#VALUE!,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Sanitary pads,,Sanitation - supplies,box,1,Undefined,#VALUE!,MISSION 07/5 *08,Kabhre Palanchok,Nala(Ugrachandi),Ugrachandi Nala,27.6591,85.5308,27.58333,85.66667,7-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 07/5 *09,Rasuwa,Jibjibe(Nilkantha),Kalikastan,27.99303,85.2157,28.16667,85.33333,7-May-15
+,,Medicine - drug,,Medicine,tabs,500,Undefined,#VALUE!,MISSION 07/5 *09,Rasuwa,Jibjibe(Nilkantha),Kalikastan,27.99303,85.2157,28.16667,85.33333,7-May-15
+,,Medicine - supplies,,Sanitation - supplies,unit,20,Undefined,#VALUE!,MISSION 07/5 *09,Rasuwa,Jibjibe(Nilkantha),Kalikastan,27.99303,85.2157,28.16667,85.33333,7-May-15
+,,Blankets,,Shelter,unit,10,Undefined,#VALUE!,MISSION 07/5 *09,Rasuwa,Jibjibe(Nilkantha),Kalikastan,27.99303,85.2157,28.16667,85.33333,7-May-15
+,,Tarp,,Shelter,unit,50,Undefined,#VALUE!,MISSION 07/5 *09,Rasuwa,Jibjibe(Nilkantha),Kalikastan,27.99303,85.2157,28.16667,85.33333,7-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 07/5 *10,Sindhupalchok,Badegau,Majhi Gaun,27.78326,85.61004,27.82936,85.54504,7-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 07/5 *10,Sindhupalchok,Badegau,Majhi Gaun,27.78326,85.61004,27.82936,85.54504,7-May-15
+,,Medicine - rehydration,,Medicine,box,3,Undefined,#VALUE!,MISSION 07/5 *10,Sindhupalchok,Badegau,Majhi Gaun,27.78326,85.61004,27.82936,85.54504,7-May-15
+,,Diapers,,Sanitation - Children supplies,box,2,Undefined,#VALUE!,MISSION 07/5 *10,Sindhupalchok,Badegau,Majhi Gaun,27.78326,85.61004,27.82936,85.54504,7-May-15
+,,Medicine - supplies,,Sanitation - supplies,pack,2,Undefined,#VALUE!,MISSION 07/5 *10,Sindhupalchok,Badegau,Majhi Gaun,27.78326,85.61004,27.82936,85.54504,7-May-15
+,,Piyush,,Sanitation - Water purification,bottle,7,Undefined,#VALUE!,MISSION 07/5 *10,Sindhupalchok,Badegau,Majhi Gaun,27.78326,85.61004,27.82936,85.54504,7-May-15
+,,Tarp,,Shelter,unit,20,Undefined,#VALUE!,MISSION 07/5 *10,Sindhupalchok,Badegau,Majhi Gaun,27.78326,85.61004,27.82936,85.54504,7-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,52,Undefined,#VALUE!,MISSION 08/5 *01,Sindhupalchok,Ramche,"Battay, ChamKharkay, Bhirkuna, Binday",27.7797,85.8788,27.82936,85.54504,8-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,30,Undefined,#VALUE!,MISSION 08/5 *02,Sindhupalchok,Sindhupalchok,,27.82936,85.54504,27.82936,85.54504,8-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 08/5 *03,Sindhupalchok,Choukati,,27.76987,85.95853,27.82936,85.54504,8-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,30,Undefined,#VALUE!,MISSION 08/5 *03,Sindhupalchok,Choukati,,27.76987,85.95853,27.82936,85.54504,8-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,110,Undefined,#VALUE!,MISSION 08/5 *03,Sindhupalchok,Choukati,,27.76987,85.95853,27.82936,85.54504,8-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 08/5 *04,Sindhupalchok,Thampal Chhap,Dhap,29.7814,80.5145,27.82936,85.54504,8-May-15
+,,Rice,,Food - Dry Food,sack,10,25,250,MISSION 08/5 *05,Dolakha,BhimesworN.P.,Sakine,27.66517,86.05285,27.83333,86.25,8-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 08/5 *05,Dolakha,BhimesworN.P.,Sakine,27.66517,86.05285,27.83333,86.25,8-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 08/5 *05,Dolakha,BhimesworN.P.,Sakine,27.66517,86.05285,27.83333,86.25,8-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,2,Undefined,#VALUE!,MISSION 08/5 *05,Dolakha,BhimesworN.P.,Sakine,27.66517,86.05285,27.83333,86.25,8-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,55,Undefined,#VALUE!,MISSION 08/5 *05,Dolakha,BhimesworN.P.,Sakine,27.66517,86.05285,27.83333,86.25,8-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 08/5 *06,Kathmandu District,Gonggabu,,27.7433,85.31991,27.70704,85.33218,8-May-15
+,,Dal,,Food - Dry Food,sack,4,25,100,MISSION 08/5 *07,Sindhupalchok,Atarpur,,27.67139,85.88846,27.82936,85.54504,8-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 08/5 *07,Sindhupalchok,Atarpur,,27.67139,85.88846,27.82936,85.54504,8-May-15
+,,Oil,,Food - Dry Food,bottle,60,1,60,MISSION 08/5 *07,Sindhupalchok,Atarpur,,27.67139,85.88846,27.82936,85.54504,8-May-15
+,,Salt,,Food - Dry Food,pack,125,1,125,MISSION 08/5 *07,Sindhupalchok,Atarpur,,27.67139,85.88846,27.82936,85.54504,8-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 08/5 *07,Sindhupalchok,Atarpur,,27.67139,85.88846,27.82936,85.54504,8-May-15
+,,Piyush,,Sanitation - Water purification,bottle,6,Undefined,#VALUE!,MISSION 08/5 *07,Sindhupalchok,Atarpur,,27.67139,85.88846,27.82936,85.54504,8-May-15
+,,Tarp,,Shelter,unit,51,Undefined,#VALUE!,MISSION 08/5 *07,Sindhupalchok,Atarpur,,27.67139,85.88846,27.82936,85.54504,8-May-15
+,,Biscuits,,Food - Dry Food,box,1,4.5,4.5,MISSION 08/5 *08,Sindhupalchok,Kadambas,Lapsey,27.72394,85.76373,27.82936,85.54504,8-May-15
+,,Dal,,Food - Dry Food,pack,2,1,2,MISSION 08/5 *08,Sindhupalchok,Kadambas,Lapsey,27.72394,85.76373,27.82936,85.54504,8-May-15
+,,Noodles,,Food - Dry Food,box,1,4.5,4.5,MISSION 08/5 *08,Sindhupalchok,Kadambas,Lapsey,27.72394,85.76373,27.82936,85.54504,8-May-15
+,,Rice,,Food - Dry Food,pack,5,1,5,MISSION 08/5 *08,Sindhupalchok,Kadambas,Lapsey,27.72394,85.76373,27.82936,85.54504,8-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 08/5 *10,Lamjung,Bhulbhule,,28.30326,84.41636,28.25,84.41667,8-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 09/5 *05,Sindhupalchok,Ramche,"Battay, ChamKharkay, Bhirkuna, Binday",27.7797,85.8788,27.82936,85.54504,8-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 09/5 *01,Kathmandu District,Ramkot,Nagarjun,27.71879,85.25633,27.70704,85.33218,9-May-15
+,,Piyush,,Sanitation - Water purification,bottle,10,Undefined,#VALUE!,MISSION 09/5 *01,Kathmandu District,Ramkot,Nagarjun,27.71879,85.25633,27.70704,85.33218,9-May-15
+,,Tarp,,Shelter,unit,25,Undefined,#VALUE!,MISSION 09/5 *02,Makwanpur,Fakhel,,27.6164,85.21402,27.41667,85.25,9-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 09/5 *03,Kathmandu District,KathmanduN.P.,Swayambunath,27.70731,85.32218,27.70704,85.33218,9-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,,Medicine - rehydration,,Medicine,unit,200,Undefined,#VALUE!,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,,Sanitary pads,,Sanitation - supplies,box,1,Undefined,#VALUE!,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,250,Undefined,#VALUE!,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,,Rice,,Food - Dry Food,sack,16,25,400,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,,Dal,,Food - Dry Food,sack,2,25,50,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,,Blankets,,Shelter,unit,100,Undefined,#VALUE!,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,,Beaten Rice,,Food - Dry Food,sack,10,25,250,MISSION 09/5 *04,Dolakha,Suri,and also Lamabagar District,27.72942,86.23623,27.83333,86.25,9-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,40,Undefined,#VALUE!,MISSION 09/5 *06,Lalitpur,Badikhel,,27.5887,85.3532,27.58333,85.33333,9-May-15
+,,Tarp,,Shelter,unit,1,Undefined,#VALUE!,MISSION 09/5 *07,Kathmandu District,Gonggabu,,27.7433,85.31991,27.70704,85.33218,9-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,215,Undefined,#VALUE!,MISSION 10/5 *01,Ramechhap,Lakhanpur,,27.56324,85.86011,27.3303,86.06458,10-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 10/5 *01,Ramechhap,Lakhanpur,,27.56324,85.86011,27.3303,86.06458,10-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,100,Undefined,#VALUE!,MISSION 10/5 *01,Ramechhap,Lakhanpur,,27.56324,85.86011,27.3303,86.06458,10-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,4,Undefined,#VALUE!,MISSION 10/5 *01,Ramechhap,Lakhanpur,,27.56324,85.86011,27.3303,86.06458,10-May-15
+,,Sanitary pads,,Sanitation - supplies,unit,24,Undefined,#VALUE!,MISSION 10/5 *02,Sindhupalchok,Jalbire,Selang ward 4,27.82148,85.78307,27.82936,85.54504,10-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,75,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Rice,,Food - Dry Food,sack,12,25,300,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Dal,,Food - Dry Food,pack,50,1,50,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Salt,,Food - Dry Food,pack,15,1,15,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Lime,,Shelter,pack,10,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Beaten Rice,,Food - Dry Food,sack,10,25,250,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,2,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Noodles,,Food - Dry Food,box,1,4.5,4.5,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Medicine - rehydration,,Medicine,box,5,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Sanitary pads,,Sanitation - supplies,unit,20,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,100,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Lito- baby food,,Sanitation - Children supplies,pack,5,Undefined,#VALUE!,MISSION 10/5 *03,Dhading,Nalang,Pipal Nalang,27.8701,84.8381,28,84.91667,10-May-15
+,,Tarp,,Shelter,unit,40,Undefined,#VALUE!,MISSION 10/5 *04,Lalitpur,Ikudol,,27.4822,85.3182,27.58333,85.33333,10-May-15
+,,Rice,,Food - Dry Food,sack,4,25,100,MISSION 10/5 *04,Lalitpur,Ikudol,,27.4822,85.3182,27.58333,85.33333,10-May-15
+,,Medicine - rehydration,,Medicine,tabs,100,Undefined,#VALUE!,MISSION 10/5 *04,Lalitpur,Ikudol,,27.4822,85.3182,27.58333,85.33333,10-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 10/5 *05,Kathmandu District,KirtipurN.P.,,27.67088,85.27748,27.70704,85.33218,10-May-15
+,,Tarp,,Shelter,unit,3,Undefined,#VALUE!,MISSION 10/5 *06,Kathmandu District,Lapsephedi,,27.76161,85.49094,27.70704,85.33218,10-May-15
+,,Medicine - rehydration,,Medicine,box,7,Undefined,#VALUE!,MISSION 11/5 *01,Nuwakot,Gaunkharka,wards 1 to 9,27.93813,85.44309,27.964,83.0549,11-May-15
+,,Diapers,,Sanitation - Children supplies,box,1,Undefined,#VALUE!,MISSION 11/5 *01,Nuwakot,Gaunkharka,wards 1 to 9,27.93813,85.44309,27.964,83.0549,11-May-15
+,,Medicine - supplies,,Sanitation - supplies,box,5,Undefined,#VALUE!,MISSION 11/5 *01,Nuwakot,Gaunkharka,wards 1 to 9,27.93813,85.44309,27.964,83.0549,11-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 11/5 *01,Nuwakot,Gaunkharka,wards 1 to 9,27.93813,85.44309,27.964,83.0549,11-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 11/5 *02,Kabhre Palanchok,Budhakhani,,27.4169,85.6762,27.58333,85.66667,11-May-15
+,,Dal,,Food - Dry Food,pack,13,1,13,MISSION 11/5 *02,Kabhre Palanchok,Budhakhani,,27.4169,85.6762,27.58333,85.66667,11-May-15
+,,Noodles,,Food - Dry Food,box,5,4.5,22.5,MISSION 11/5 *02,Kabhre Palanchok,Budhakhani,,27.4169,85.6762,27.58333,85.66667,11-May-15
+,,Biscuits,,Food - Dry Food,box,3,4.5,13.5,MISSION 11/5 *02,Kabhre Palanchok,Budhakhani,,27.4169,85.6762,27.58333,85.66667,11-May-15
+,,Salt,,Food - Dry Food,pack,25,1,25,MISSION 11/5 *03,Kabhre Palanchok,ChandeniMandan,Chandeni/Davagaon - ward 6,27.7028,85.659,27.58333,85.66667,11-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,50,Undefined,#VALUE!,MISSION 12/5 *01,Nuwakot,Kakani,"Wards 6, 8, 3",27.81948,85.25691,27.964,83.0549,12-May-15
+,,Rice,,Food - Dry Food,sack,5,25,125,MISSION 12/5 *01,Nuwakot,Kakani,"Wards 6, 8, 3",27.81948,85.25691,27.964,83.0549,12-May-15
+,,Dal,,Food - Dry Food,sack,1,25,25,MISSION 12/5 *01,Nuwakot,Kakani,"Wards 6, 8, 3",27.81948,85.25691,27.964,83.0549,12-May-15
+,,Beaten Rice,,Food - Dry Food,sack,5,25,125,MISSION 12/5 *01,Nuwakot,Kakani,"Wards 6, 8, 3",27.81948,85.25691,27.964,83.0549,12-May-15
+,,Medicine - rehydration,,Medicine,unit,240,Undefined,#VALUE!,MISSION 12/5 *01,Nuwakot,Kakani,"Wards 6, 8, 3",27.81948,85.25691,27.964,83.0549,12-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 12/5 *01,Nuwakot,Kakani,"Wards 6, 8, 3",27.81948,85.25691,27.964,83.0549,12-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 13/5 *01,Kathmandu District,KathmanduN.P.,"Government hospitals in KTM, Bhaktapur and Lalitpur",27.70731,85.32218,27.70704,85.33218,13-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,220,Undefined,#VALUE!,MISSION 14/5 *01,Solukhumbu,Sotang,and also Gudel and Chheskam VDCs,27.48637,86.79013,27.75,86.75,14-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 14/5 *01,Solukhumbu,Sotang,and also Gudel and Chheskam VDCs,27.48637,86.79013,27.75,86.75,14-May-15
+,,Tarp,,Shelter,unit,15,Undefined,#VALUE!,MISSION 14/5 *02,Solukhumbu,Salleri,Dudkunda Village,27.50518,86.58393,27.75,86.75,14-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 14/5 *03,Rasuwa,Bhorle,,27.98768,85.24388,28.16667,85.33333,14-May-15
+,,Tarp,,Shelter,unit,100,Undefined,#VALUE!,MISSION 14/5 *04,Lalitpur,Lamatar,Mahalaxmi Nagu,27.6252,85.3996,27.58333,85.33333,14-May-15
+,,Rice,,Food - Dry Food,sack,10,25,250,MISSION 14/5 *05,Dolakha,Chilankha,"ward 9 - by car to Sifal, then helicopter drop off to Chilankha (Minu Silwal 014490516",27.82304,86.12946,27.83333,86.25,14-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,50,Undefined,#VALUE!,MISSION 14/5 *05,Dolakha,Chilankha,"ward 9 - by car to Sifal, then helicopter drop off to Chilankha (Minu Silwal 014490516",27.82304,86.12946,27.83333,86.25,14-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,1,Undefined,#VALUE!,MISSION 14/5 *05,Dolakha,Chilankha,"ward 9 - by car to Sifal, then helicopter drop off to Chilankha (Minu Silwal 014490516",27.82304,86.12946,27.83333,86.25,14-May-15
+,,Beaten Rice,,Food - Dry Food,sack,3,25,75,MISSION 14/5 *05,Dolakha,Chilankha,"ward 9 - by car to Sifal, then helicopter drop off to Chilankha (Minu Silwal 014490516",27.82304,86.12946,27.83333,86.25,14-May-15
+,,Tarp,,Shelter,unit,2,Undefined,#VALUE!,MISSION 14/5 *06,Kathmandu District,Jorpati,,27.72416,85.37981,27.70704,85.33218,14-May-15
+,,Rice,,Food - Dry Food,sack,10,25,250,MISSION 14/5 *07,Ramechhap,Chuchure,For distribution details see: https://docs.google.com/document/d/1ztdIUnVq0GfZg5M4u3fuxnBlkhOxtyGYaz58dUslMeo/edit?usp=sharing,27.61682,86.33257,27.3303,86.06458,14-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 14/5 *07,Ramechhap,Chuchure,For distribution details see: https://docs.google.com/document/d/1ztdIUnVq0GfZg5M4u3fuxnBlkhOxtyGYaz58dUslMeo/edit?usp=sharing,27.61682,86.33257,27.3303,86.06458,14-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,140,Undefined,#VALUE!,MISSION 14/5 *07,Ramechhap,Chuchure,For distribution details see: https://docs.google.com/document/d/1ztdIUnVq0GfZg5M4u3fuxnBlkhOxtyGYaz58dUslMeo/edit?usp=sharing,27.61682,86.33257,27.3303,86.06458,14-May-15
+,,Dal,,Food - Dry Food,sack,1,25,25,MISSION 14/5 *07,Ramechhap,Chuchure,For distribution details see: https://docs.google.com/document/d/1ztdIUnVq0GfZg5M4u3fuxnBlkhOxtyGYaz58dUslMeo/edit?usp=sharing,27.61682,86.33257,27.3303,86.06458,14-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,45,Undefined,#VALUE!,MISSION 14/5 *07,Ramechhap,Chuchure,For distribution details see: https://docs.google.com/document/d/1ztdIUnVq0GfZg5M4u3fuxnBlkhOxtyGYaz58dUslMeo/edit?usp=sharing,27.61682,86.33257,27.3303,86.06458,14-May-15
+,,Medical Kit,,Medicine,unit,5,Undefined,#VALUE!,MISSION 14/5 *07,Ramechhap,Chuchure,For distribution details see: https://docs.google.com/document/d/1ztdIUnVq0GfZg5M4u3fuxnBlkhOxtyGYaz58dUslMeo/edit?usp=sharing,27.61682,86.33257,27.3303,86.06458,14-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,5,Undefined,#VALUE!,MISSION 14/5 *07,Ramechhap,Chuchure,For distribution details see: https://docs.google.com/document/d/1ztdIUnVq0GfZg5M4u3fuxnBlkhOxtyGYaz58dUslMeo/edit?usp=sharing,27.61682,86.33257,27.3303,86.06458,14-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,25,Undefined,#VALUE!,MISSION 15/5 *01,Gorkha,Chumchet,Domje Chumba Lungdang - helicopter drop off,28.5035,84.9777,28.33333,84.83333,15-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,515,Undefined,#VALUE!,MISSION 15/5 *02,Khotang,RakhaBangdel,"R.Maheswori, RakhaDipsung, Sungdel",27.384,86.8205,27.25,86.83333,15-May-15
+,,Tarp,,Shelter,unit,7,Undefined,#VALUE!,MISSION 15/5 *03,Nuwakot,BidurN.P.,Battar,27.90842,85.1491,27.964,83.0549,15-May-15
+,,Tarp,,Shelter,unit,2,Undefined,#VALUE!,MISSION 15/5 *04,Kathmandu District,KathmanduN.P.,Kuleshwor,27.70731,85.32218,27.70704,85.33218,15-May-15
+,,Tarp,,Shelter,unit,4,Undefined,#VALUE!,MISSION 15/5 *05,Bhaktapur,MadhyapurThimiN.P.,Nagadesh,27.6822,85.3838,27.66734,85.41673,15-May-15
+,,Tarp,,Shelter,unit,6,Undefined,#VALUE!,MISSION 15/5 *06,Sindhupalchok,Sangachok,Korchowk ward 4,27.69532,85.72073,27.82936,85.54504,15-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,197,Undefined,#VALUE!,MISSION 15/5 *07,Ramechhap,Chuchure,Shivalaya village,27.61682,86.33257,27.3303,86.06458,15-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,4,Undefined,#VALUE!,MISSION 15/5 *07,Ramechhap,Chuchure,Shivalaya village,27.61682,86.33257,27.3303,86.06458,15-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 15/5 *07,Ramechhap,Chuchure,Shivalaya village,27.61682,86.33257,27.3303,86.06458,15-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 15/5 *07,Ramechhap,Chuchure,Shivalaya village,27.61682,86.33257,27.3303,86.06458,15-May-15
+,,Dal,,Food - Dry Food,sack,2,25,50,MISSION 15/5 *07,Ramechhap,Chuchure,Shivalaya village,27.61682,86.33257,27.3303,86.06458,15-May-15
+,,Blankets,,Shelter,unit,100,Undefined,#VALUE!,MISSION 15/5 *07,Ramechhap,Chuchure,Shivalaya village,27.61682,86.33257,27.3303,86.06458,15-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,197,Undefined,#VALUE!,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,4,Undefined,#VALUE!,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,,Rice,,Food - Dry Food,sack,30,25,750,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,,Dal,,Food - Dry Food,sack,4,25,100,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,,Salt,,Food - Dry Food,pack,1,1,1,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,,Blankets,,Shelter,unit,100,Undefined,#VALUE!,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 15/5 *08,Dolakha,Sahare,,27.5027,86.12413,27.83333,86.25,15-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 15/5 *09,Rasuwa,Bhorle,,27.98768,85.24388,28.16667,85.33333,15-May-15
+,,Tarp,,Shelter,unit,2,Undefined,#VALUE!,MISSION 15/5 *09,Rasuwa,Bhorle,,27.98768,85.24388,28.16667,85.33333,15-May-15
+,,Medicine - rehydration,,Medicine,box,10,Undefined,#VALUE!,MISSION 15/5 *09,Rasuwa,Bhorle,,27.98768,85.24388,28.16667,85.33333,15-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 16/5 *01,Sindhupalchok,Dhuyang,Jyanling,27.85199,85.85637,27.82936,85.54504,16-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 15/5 *10,Rasuwa,Yarsa,Arukharka,28.03559,85.30384,28.16667,85.33333,15-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 11/5 nosheet #01,Rasuwa,Bridhim,,28.18921,85.37507,28.16667,85.33333,11-May-15
+,,Blankets,,Shelter,unit,100,Undefined,#VALUE!,MISSION 11/5 nosheet #01,Rasuwa,Bridhim,,28.18921,85.37507,28.16667,85.33333,11-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,1070,Undefined,#VALUE!,MISSION 16/5 *02,Khotang,RakhaBangdel,"R.Maheswori, RakhaDipsung, Sungdel",27.384,86.8205,27.25,86.83333,16-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,18,Undefined,#VALUE!,MISSION 16/5 *02,Khotang,RakhaBangdel,"R.Maheswori, RakhaDipsung, Sungdel",27.384,86.8205,27.25,86.83333,16-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,75,Undefined,#VALUE!,MISSION 16/5 *03,Rasuwa,Timure,and also Bridhim VDC,28.2524,85.39284,28.16667,85.33333,16-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,15,Undefined,#VALUE!,MISSION 16/5 *03,Rasuwa,Timure,and also Bridhim VDC,28.2524,85.39284,28.16667,85.33333,16-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 16/5 *03,Rasuwa,Timure,and also Bridhim VDC,28.2524,85.39284,28.16667,85.33333,16-May-15
+,India,Tarp,,Shelter,unit,24,Undefined,#VALUE!,MISSION 16/5 *04,Kathmandu District,KathmanduN.P.,Swayambu Langtang Camp,27.70731,85.32218,27.70704,85.33218,16-May-15
+,,Mosquito Nets,,Shelter,unit,40,Undefined,#VALUE!,MISSION 16/5 *04,Kathmandu District,KathmanduN.P.,Swayambu Langtang Camp,27.70731,85.32218,27.70704,85.33218,16-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,50,Undefined,#VALUE!,MISSION 16/5 *05,Dolakha,LakuriDada,Khari Dhurga,27.68601,85.9619,27.83333,86.25,16-May-15
+,,Rice,,Food - Dry Food,sack,4,25,100,MISSION 16/5 *05,Dolakha,LakuriDada,Khari Dhurga,27.68601,85.9619,27.83333,86.25,16-May-15
+,,Salt,,Food - Dry Food,pack,30,1,30,MISSION 16/5 *05,Dolakha,LakuriDada,Khari Dhurga,27.68601,85.9619,27.83333,86.25,16-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,100,Undefined,#VALUE!,MISSION 16/5 *06,Dhading,ChhatreDyaurali,ward 1 & 3,27.7485,85.227,28,84.91667,16-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 16/5 *06,Dhading,ChhatreDyaurali,ward 1 & 3,27.7485,85.227,28,84.91667,16-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 16/5 *06,Dhading,ChhatreDyaurali,ward 1 & 3,27.7485,85.227,28,84.91667,16-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 16/5 *06,Dhading,ChhatreDyaurali,ward 1 & 3,27.7485,85.227,28,84.91667,16-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,500,Undefined,#VALUE!,MISSION 16/5 *07,Dolakha,Alampu,"and Bigu VDC, Orang VDC, Babare VDC, Gumba",27.85332,86.1005,27.83333,86.25,16-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,15,Undefined,#VALUE!,MISSION 16/5 *07,Dolakha,Alampu,"and Bigu VDC, Orang VDC, Babare VDC, Gumba",27.85332,86.1005,27.83333,86.25,16-May-15
+,,Blankets,,Shelter,unit,150,Undefined,#VALUE!,MISSION 16/5 *07,Dolakha,Alampu,"and Bigu VDC, Orang VDC, Babare VDC, Gumba",27.85332,86.1005,27.83333,86.25,16-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,3,Undefined,#VALUE!,MISSION 16/5 *07,Dolakha,Alampu,"and Bigu VDC, Orang VDC, Babare VDC, Gumba",27.85332,86.1005,27.83333,86.25,16-May-15
+,,Tarp,,Shelter,unit,12,Undefined,#VALUE!,MISSION 14/5 *08,Bhaktapur,BhaktapurN.P.,,27.6748,85.4319,27.66734,85.41673,14-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,15,Undefined,#VALUE!,MISSION 16/5 *08,Rasuwa,Gatlang,and Syafru VDC,28.16426,85.26809,28.16667,85.33333,16-May-15
+,,Rice,,Food - Dry Food,sack,10,25,250,MISSION 16/5 *09,Dolakha,Chhetrapa,Yobo village,27.66913,86.13334,27.83333,86.25,16-May-15
+,,Medicine - drug,,Medicine,unit,132,Undefined,#VALUE!,MISSION 14/5 *09,Kathmandu District,KathmanduN.P.,TU Teaching Hospital ICU,27.70731,85.32218,27.70704,85.33218,14-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,60,Undefined,#VALUE!,MISSION 16/5 *10,Gorkha,Thumi,,28.1314,84.8216,28.33333,84.83333,16-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,245,Undefined,#VALUE!,MISSION 17/5 *01,Gorkha,Chhoprak,"Gaira, Jaisithok, Phirphire, Arubot, ward 8",28.0556,84.5881,28.33333,84.83333,17-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,1,Undefined,#VALUE!,MISSION 17/5 *01,Gorkha,Chhoprak,"Gaira, Jaisithok, Phirphire, Arubot, ward 8",28.0556,84.5881,28.33333,84.83333,17-May-15
+,India,Tarp,,Shelter,unit,240,Undefined,#VALUE!,MISSION 17/5 *02,Ramechhap,Gumdel,wards 1 to 9,27.64091,86.42334,27.3303,86.06458,17-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,2,Undefined,#VALUE!,MISSION 17/5 *02,Ramechhap,Gumdel,wards 1 to 9,27.64091,86.42334,27.3303,86.06458,17-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,6,Undefined,#VALUE!,MISSION 17/5 *02,Ramechhap,Gumdel,wards 1 to 9,27.64091,86.42334,27.3303,86.06458,17-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,1,Undefined,#VALUE!,MISSION 17/5 *03,Ramechhap,Gumdel,and BamtiBhandar - Bhanelar/Deurali/Lapchane/Thodung/Serding,27.64091,86.42334,27.3303,86.06458,17-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,250,Undefined,#VALUE!,MISSION 17/5 *03,Ramechhap,Gumdel,and BamtiBhandar - Bhanelar/Deurali/Lapchane/Thodung/Serding,27.64091,86.42334,27.3303,86.06458,17-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,259,Undefined,#VALUE!,MISSION 17/5 *04,Ramechhap,Phulasi,and Chanakha VDC,27.48568,86.06542,27.3303,86.06458,17-May-15
+,UNHCR,Plastic rolls (UNCHR),,Shelter,unit,2,Undefined,#VALUE!,MISSION 17/5 *04,Ramechhap,Phulasi,and Chanakha VDC,27.48568,86.06542,27.3303,86.06458,17-May-15
+,India,Tarp,,Shelter,unit,141,Undefined,#VALUE!,MISSION 17/5 *04,Ramechhap,Phulasi,and Chanakha VDC,27.48568,86.06542,27.3303,86.06458,17-May-15
+,,Blankets,,Shelter,unit,150,Undefined,#VALUE!,MISSION 17/5 *04,Ramechhap,Phulasi,and Chanakha VDC,27.48568,86.06542,27.3303,86.06458,17-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,31,Undefined,#VALUE!,MISSION 17/5 *04,Ramechhap,Phulasi,and Chanakha VDC,27.48568,86.06542,27.3303,86.06458,17-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 17/5 *04,Ramechhap,Phulasi,and Chanakha VDC,27.48568,86.06542,27.3303,86.06458,17-May-15
+,India,Tarp,,Shelter,unit,100,Undefined,#VALUE!,MISSION 17/5 *05,Kathmandu District,KathmanduN.P.,Jyabahal,27.70731,85.32218,27.70704,85.33218,17-May-15
+,India,Tarp,,Shelter,unit,45,Undefined,#VALUE!,MISSION 17/5 *06,Sindhupalchok,Sangachok,Jalkeni,27.69532,85.72073,27.82936,85.54504,17-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 17/5 *06,Sindhupalchok,Sangachok,Jalkeni,27.69532,85.72073,27.82936,85.54504,17-May-15
+,India,Tarp,,Shelter,unit,45,Undefined,#VALUE!,MISSION 17/5 *07,Kabhre Palanchok,KartikeDeurali,ward 4,27.5472,85.802,27.58333,85.66667,17-May-15
+,,Blankets,,Shelter,unit,75,Undefined,#VALUE!,MISSION 17/5 *07,Kabhre Palanchok,KartikeDeurali,ward 4,27.5472,85.802,27.58333,85.66667,17-May-15
+,,Rice,,Food - Dry Food,sack,72,25,1800,MISSION 17/5 *07,Kabhre Palanchok,KartikeDeurali,ward 4,27.5472,85.802,27.58333,85.66667,17-May-15
+,,Oil,,Food - Dry Food,bottle,72,1,72,MISSION 17/5 *07,Kabhre Palanchok,KartikeDeurali,ward 4,27.5472,85.802,27.58333,85.66667,17-May-15
+,,Salt,,Food - Dry Food,pack,72,1,72,MISSION 17/5 *07,Kabhre Palanchok,KartikeDeurali,ward 4,27.5472,85.802,27.58333,85.66667,17-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,200,Undefined,#VALUE!,MISSION 15/5 *11,Sindhupalchok,Pagretar,,27.74616,85.84449,27.82936,85.54504,17-May-15
+,India,Tarp,,Shelter,unit,30,Undefined,#VALUE!,MISSION 17/5 *08,Makwanpur,Palung,Thaka - wards 1 & 2,27.64237,85.07101,27.41667,85.25,17-May-15
+,,Blankets,,Shelter,unit,30,Undefined,#VALUE!,MISSION 17/5 *08,Makwanpur,Palung,Thaka - wards 1 & 2,27.64237,85.07101,27.41667,85.25,17-May-15
+,,Food packages,,Food - Supplies,unit,220,Undefined,#VALUE!,MISSION 17/5 *08,Makwanpur,Palung,Thaka - wards 1 & 2,27.64237,85.07101,27.41667,85.25,17-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 17/5 *08,Makwanpur,Palung,Thaka - wards 1 & 2,27.64237,85.07101,27.41667,85.25,17-May-15
+,,Water,,Food - Drinks,box,5,Undefined,#VALUE!,MISSION 17/5 *08,Makwanpur,Palung,Thaka - wards 1 & 2,27.64237,85.07101,27.41667,85.25,17-May-15
+,,Biscuits,,Food - Dry Food,box,5,4.5,22.5,MISSION 17/5 *08,Makwanpur,Palung,Thaka - wards 1 & 2,27.64237,85.07101,27.41667,85.25,17-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 17/7 *09,Rasuwa,Bhorle,wards 1 to 9,27.98768,85.24388,28.16667,85.33333,17-May-15
+,,Blankets,,Shelter,unit,200,Undefined,#VALUE!,MISSION 17/5 *10,Solukhumbu,ChauriKharka,,27.7139,86.73652,27.75,86.75,17-May-15
+,India,Tarp,,Shelter,unit,250,Undefined,#VALUE!,MISSION 17/5 *10,Solukhumbu,ChauriKharka,,27.7139,86.73652,27.75,86.75,17-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,20,Undefined,#VALUE!,MISSION 17/5 *10,Solukhumbu,ChauriKharka,,27.7139,86.73652,27.75,86.75,17-May-15
+,India,Tarp,,Shelter,unit,21,Undefined,#VALUE!,MISSION 17/5 *11,Kabhre Palanchok,Machchhegaun,Dungetar village ward 7,27.4687,85.7881,27.58333,85.66667,17-May-15
+,India,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 17/5 *12,Kathmandu District,KathmanduN.P.,Temples around the KTM Valley,27.70731,85.32218,27.70704,85.33218,17-May-15
+,India,Tarp,,Shelter,unit,40,Undefined,#VALUE!,MISSION 18/5 *01,Gorkha,Ghyalchok,Beni Gau ward 4,27.8239,84.7338,28.33333,84.83333,18-May-15
+,India,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 18/5 *02,Bhaktapur,BhaktapurN.P.,Dattataray Square,27.6748,85.4319,27.66734,85.41673,18-May-15
+,India,Tarp,,Shelter,unit,159,Undefined,#VALUE!,MISSION 17/5 *13,Dolakha,Alampu,"and Bigu VDC, Orang VDC, Babare VDC, Gumba",27.85332,86.1005,27.83333,86.25,17-May-15
+,,Tarp,,Shelter,unit,1,Undefined,#VALUE!,MISSION 12/5 *02,Kathmandu District,KathmanduN.P.,New Baneshwor - ward 10,27.70731,85.32218,27.70704,85.33218,12-May-15
+,,Tarp,,Shelter,unit,1,Undefined,#VALUE!,MISSION 15/5 *12,Kathmandu District,KathmanduN.P.,Chhetrapati,27.70731,85.32218,27.70704,85.33218,15-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 18/5 *03,Kathmandu District,Sundarijal,"Sundarijal, Okhreni, Chilaunegaun - ward 6",27.78073,85.42793,27.70704,85.33218,18-May-15
+,India,Tarp,,Shelter,unit,65,Undefined,#VALUE!,MISSION 18/5 *03,Kathmandu District,Sundarijal,"Sundarijal, Okhreni, Chilaunegaun - ward 6",27.78073,85.42793,27.70704,85.33218,18-May-15
+,India,Tarp,,Shelter,unit,261,Undefined,#VALUE!,MISSION 18/5 *04,Dolakha,Katakuti,and also Bhusapheda VDC,27.62756,85.9923,27.83333,86.25,18-May-15
+,,Blankets,,Shelter,unit,136,Undefined,#VALUE!,MISSION 18/5 *04,Dolakha,Katakuti,and also Bhusapheda VDC,27.62756,85.9923,27.83333,86.25,18-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,4,Undefined,#VALUE!,MISSION 18/5 *04,Dolakha,Katakuti,and also Bhusapheda VDC,27.62756,85.9923,27.83333,86.25,18-May-15
+,India,Tarp,,Shelter,unit,45,Undefined,#VALUE!,MISSION 18/5 *05,Kabhre Palanchok,KartikeDeurali,,27.5472,85.802,27.58333,85.66667,18-May-15
+,,Blankets,,Shelter,unit,45,Undefined,#VALUE!,MISSION 18/5 *05,Kabhre Palanchok,KartikeDeurali,,27.5472,85.802,27.58333,85.66667,18-May-15
+,UNHCR,Tarp (UNHCR),,Shelter,unit,5,Undefined,#VALUE!,MISSION 18/5 *06,Sindhupalchok,Pagretar,"Swora, ward 6 & 7",27.74616,85.84449,27.82936,85.54504,18-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,2,Undefined,#VALUE!,MISSION 18/5 *06,Sindhupalchok,Pagretar,"Swora, ward 6 & 7",27.74616,85.84449,27.82936,85.54504,18-May-15
+,India,Tarp,,Shelter,unit,44,Undefined,#VALUE!,MISSION 18/5 *06,Sindhupalchok,Pagretar,"Swora, ward 6 & 7",27.74616,85.84449,27.82936,85.54504,18-May-15
+,India,Tarp,,Shelter,unit,60,Undefined,#VALUE!,MISSION 18/5 *07,Ramechhap,Duragau,"Khatinga wards 4, 5, 6",27.46642,86.23541,27.3303,86.06458,18-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 18/5 *07,Ramechhap,Duragau,"Khatinga wards 4, 5, 6",27.46642,86.23541,27.3303,86.06458,18-May-15
+,,Blankets,,Shelter,unit,25,Undefined,#VALUE!,MISSION 18/5 *08,Kathmandu District,KathmanduN.P.,Sapkota (?),27.70731,85.32218,27.70704,85.33218,18-May-15
+,India,Tarp,,Shelter,unit,48,Undefined,#VALUE!,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Blankets,,Shelter,unit,48,Undefined,#VALUE!,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Mosquito Nets,,Shelter,unit,48,Undefined,#VALUE!,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Rice,,Food - Dry Food,sack,5,25,125,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Dal,,Food - Dry Food,sack,2,25,50,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Noodles,,Food - Dry Food,box,3,4.5,13.5,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Biscuits,,Food - Dry Food,box,1,4.5,4.5,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,,Sugar,,Food - Dry Food,sack,2,25,50,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,2,Undefined,#VALUE!,MISSION 18/5 *09,Gorkha,Tandrang,Darme ward 7,28.0337,84.7752,28.33333,84.83333,18-May-15
+,India,Tarp,,Shelter,unit,35,Undefined,#VALUE!,MISSION 18/5 *10,Kathmandu District,KathmanduN.P.,,27.70731,85.32218,27.70704,85.33218,18-May-15
+,India,Tarp,,Shelter,unit,20,Undefined,#VALUE!,MISSION 18/5 *11,Kabhre Palanchok,KartikeDeurali,Bhanjyang,27.5472,85.802,27.58333,85.66667,18-May-15
+,India,Tarp,,Shelter,unit,250,Undefined,#VALUE!,MISSION 18/5 *12,Bhaktapur,Nagarkot,"Rohini, Chisapani, Bakhrigaun, Takurigaun",27.7137,85.5031,27.66734,85.41673,18-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,6,Undefined,#VALUE!,MISSION 18/5 *13,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,18-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,pack,4,Undefined,#VALUE!,MISSION 18/5 *13,Kathmandu District,KathmanduN.P.,Balaju,27.70731,85.32218,27.70704,85.33218,18-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,pack,50,Undefined,#VALUE!,MISSION 18/5 *14,Dhading,Marpak,Nirachowk,28.0135,84.9646,28,84.91667,18-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,100,Undefined,#VALUE!,MISSION 18/5 *14,Dhading,Marpak,Nirachowk,28.0135,84.9646,28,84.91667,18-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,6,Undefined,#VALUE!,MISSION 18/5 *14,Dhading,Marpak,Nirachowk,28.0135,84.9646,28,84.91667,18-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 19/5 *01,Sindhupalchok,Jethal,"Jethal wards 1, 2, 3",27.6988,85.91502,27.82936,85.54504,19-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 19/5 *02,Sindhupalchok,ThuloPakhar,and also Jethal VDC,27.71006,85.87086,27.82936,85.54504,19-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 19/5 *02,Sindhupalchok,ThuloPakhar,and also Jethal VDC,27.71006,85.87086,27.82936,85.54504,19-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 19/5 *02,Sindhupalchok,ThuloPakhar,and also Jethal VDC,27.71006,85.87086,27.82936,85.54504,19-May-15
+,,Rice,,Food - Dry Food,sack,8,25,200,MISSION 19/5 *02,Sindhupalchok,ThuloPakhar,and also Jethal VDC,27.71006,85.87086,27.82936,85.54504,19-May-15
+,India,Tarp,,Shelter,unit,200,Undefined,#VALUE!,MISSION 19/5 *02,Sindhupalchok,ThuloPakhar,and also Jethal VDC,27.71006,85.87086,27.82936,85.54504,19-May-15
+,India,Tarp,,Shelter,unit,200,Undefined,#VALUE!,MISSION 19/5 *03,Ramechhap,Those,and also Khimti VDC,27.57869,86.2721,27.3303,86.06458,19-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 19/5 *03,Ramechhap,Those,and also Khimti VDC,27.57869,86.2721,27.3303,86.06458,19-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 19/5 *03,Ramechhap,Those,and also Khimti VDC,27.57869,86.2721,27.3303,86.06458,19-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 19/5 *04,Dolakha,Katakuti,and also Bhusaphedi VDC,27.62756,85.9923,27.83333,86.25,19-May-15
+,,Pregnancy Kit,,Sanitation - supplies,unit,5,Undefined,#VALUE!,MISSION 19/5 *04,Dolakha,Katakuti,and also Bhusaphedi VDC,27.62756,85.9923,27.83333,86.25,19-May-15
+,,Dal,,Food - Dry Food,sack,1,25,25,MISSION 19/5 *04,Dolakha,Katakuti,and also Bhusaphedi VDC,27.62756,85.9923,27.83333,86.25,19-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,32,Undefined,#VALUE!,MISSION 19/5 *04,Dolakha,Katakuti,and also Bhusaphedi VDC,27.62756,85.9923,27.83333,86.25,19-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,40,Undefined,#VALUE!,MISSION 19/5 *04,Dolakha,Katakuti,and also Bhusaphedi VDC,27.62756,85.9923,27.83333,86.25,19-May-15
+,,Lime,,Shelter,pack,10,Undefined,#VALUE!,MISSION 19/5 *04,Dolakha,Katakuti,and also Bhusaphedi VDC,27.62756,85.9923,27.83333,86.25,19-May-15
+,,Tools (hardware),,Shelter,unit,35,Undefined,#VALUE!,MISSION 19/5 *04,Dolakha,Katakuti,and also Bhusaphedi VDC,27.62756,85.9923,27.83333,86.25,19-May-15
+,India,Tarp,,Shelter,unit,110,Undefined,#VALUE!,MISSION 19/5 *05,Solukhumbu,Kaku,"Babarka, Worwo",27.49361,86.65329,27.75,86.75,19-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 19/5 *05,Solukhumbu,Kaku,"Babarka, Worwo",27.49361,86.65329,27.75,86.75,19-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,15,Undefined,#VALUE!,MISSION 19/5 *05,Solukhumbu,Kaku,"Babarka, Worwo",27.49361,86.65329,27.75,86.75,19-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,80,Undefined,#VALUE!,MISSION 20/5 *01,Dhading,ChhatreDyaurali,"Ramche, Maidan, wards 2, 4, 7, 9",27.7485,85.227,28,84.91667,20-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,40,Undefined,#VALUE!,MISSION 20/5 *01,Dhading,ChhatreDyaurali,"Ramche, Maidan, wards 2, 4, 7, 9",27.7485,85.227,28,84.91667,20-May-15
+,,Pencils,,Psychosocial support - Children supplies,unit,4,Undefined,#VALUE!,MISSION 20/5 *01,Dhading,ChhatreDyaurali,"Ramche, Maidan, wards 2, 4, 7, 9",27.7485,85.227,28,84.91667,20-May-15
+,,Eraser,,Psychosocial support - Children supplies,unit,30,Undefined,#VALUE!,MISSION 20/5 *01,Dhading,ChhatreDyaurali,"Ramche, Maidan, wards 2, 4, 7, 9",27.7485,85.227,28,84.91667,20-May-15
+,India,Tarp,,Shelter,unit,105,Undefined,#VALUE!,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,6,Undefined,#VALUE!,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,,Dal,,Food - Dry Food,sack,6,25,150,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,,Salt,,Food - Dry Food,sack,1,25,25,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,,Pregnancy Kit,,Sanitation - supplies,unit,4,Undefined,#VALUE!,MISSION 20/5 *02,Nuwakot,Tupche,"Mahadev Khadka, ward 7",27.96567,85.1539,27.964,83.0549,20-May-15
+,India,Tarp,,Shelter,unit,60,Undefined,#VALUE!,MISSION 20/5 *03,Sindhupalchok,Dhuyang,Deurali Chalasi ward 6,27.85199,85.85637,27.82936,85.54504,20-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,20,Undefined,#VALUE!,MISSION 20/5 *04,Sindhupalchok,Dhuyang,"Jhyamling, Ghimpche",27.85199,85.85637,27.82936,85.54504,20-May-15
+,,Rice,,Food - Dry Food,sack,250,25,6250,MISSION 20/5 *04,Sindhupalchok,Dhuyang,"Jhyamling, Ghimpche",27.85199,85.85637,27.82936,85.54504,20-May-15
+,,Pregnancy Kit,,Sanitation - supplies,unit,10,Undefined,#VALUE!,MISSION 20/5 *04,Sindhupalchok,Dhuyang,"Jhyamling, Ghimpche",27.85199,85.85637,27.82936,85.54504,20-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 20/5 *05,Sindhupalchok,Jethal,"wards 1, 2, 3",27.6988,85.91502,27.82936,85.54504,20-May-15
+,India,Tarp,,Shelter,unit,26,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,Birgunj,Tarp,,Shelter,unit,45,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,15,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,30,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,30,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,,Pencils,,Psychosocial support - Children supplies,unit,36,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,,Eraser,,Psychosocial support - Children supplies,unit,30,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,,Sharpener,,Psychosocial support - Children supplies,unit,30,Undefined,#VALUE!,MISSION 21/5 *01,Gorkha,Darbhung,Rampur ward 8 - Distribution details see: https://docs.google.com/document/d/1Jgm-EVR1fAek-OnKr3A6nHK6rIxU2E_8aY6LeCZiDY4/edit?usp=sharing,27.8653,84.7337,28.33333,84.83333,21-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,5,Undefined,#VALUE!,MISSION 20/5 *05,Sindhupalchok,Jethal,"wards 1, 2, 3",27.6988,85.91502,27.82936,85.54504,20-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,30,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,India,Tarp,,Shelter,unit,111,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,Birgunj,Tarp,,Shelter,unit,207,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,,Pregnancy Kit,,Sanitation - supplies,unit,12,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,120,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,,Pencils,,Psychosocial support - Children supplies,unit,120,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,120,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,,Sharpener,,Psychosocial support - Children supplies,unit,120,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,,Eraser,,Psychosocial support - Children supplies,unit,120,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,,Medical Kit,,Medicine,,5,Undefined,#VALUE!,MISSION 21/5 *02,Dolakha,Gairimudi,,27.60429,86.12272,27.83333,86.25,21-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,4,Undefined,#VALUE!,MISSION 21/5 *03,Sindhupalchok,Dhuyang,,27.85199,85.85637,27.82936,85.54504,21-May-15
+,India,Tarp,,Shelter,unit,55,Undefined,#VALUE!,MISSION 21/5 *04,Sindhupalchok,Choukati,"Lungurpa, Dandagaun, Pandali",27.76987,85.95853,27.82936,85.54504,21-May-15
+,,Tarp,,Shelter,unit,45,Undefined,#VALUE!,MISSION 21/5 *04,Sindhupalchok,Choukati,"Lungurpa, Dandagaun, Pandali",27.76987,85.95853,27.82936,85.54504,21-May-15
+,,Blankets,,Shelter,unit,50,Undefined,#VALUE!,MISSION 21/5 *04,Sindhupalchok,Choukati,"Lungurpa, Dandagaun, Pandali",27.76987,85.95853,27.82936,85.54504,21-May-15
+,,Pregnancy Kit,,Sanitation - supplies,unit,4,Undefined,#VALUE!,MISSION 21/5 *04,Sindhupalchok,Choukati,"Lungurpa, Dandagaun, Pandali",27.76987,85.95853,27.82936,85.54504,21-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 21/5 *04,Sindhupalchok,Choukati,"Lungurpa, Dandagaun, Pandali",27.76987,85.95853,27.82936,85.54504,21-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,8,Undefined,#VALUE!,MISSION 21/5 *04,Sindhupalchok,Choukati,"Lungurpa, Dandagaun, Pandali",27.76987,85.95853,27.82936,85.54504,21-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 21/5 *05,Nuwakot,Gerkhu,"wards 3, 4, 9",27.95179,85.19261,27.964,83.0549,21-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 21/5 *06,Nuwakot,BidurN.P.,Devighat ward 7,27.90842,85.1491,27.964,83.0549,21-May-15
+,India,Tarp,,Shelter,unit,6,Undefined,#VALUE!,MISSION 21/5 *07,Solukhumbu,Takasindu,Nunthala,27.606,86.64772,27.75,86.75,21-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,1,Undefined,#VALUE!,MISSION 21/5 *07,Solukhumbu,Takasindu,Nunthala,27.606,86.64772,27.75,86.75,21-May-15
+,,Medicine - rehydration,,Medicine,box,1,Undefined,#VALUE!,MISSION 21/5 *07,Solukhumbu,Takasindu,Nunthala,27.606,86.64772,27.75,86.75,21-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 21/5 *08,Tanahun,Bhanu,Turture,28.02009,84.42373,27.91667,84.25,21-May-15
+,,Medical Kit,,Medicine,unit,1,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,India,Tarp,,Shelter,unit,9,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,,Tools (hardware),,Shelter,unit,46,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,,Pencils,,Psychosocial support - Children supplies,unit,124,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,480,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,,Eraser,,Psychosocial support - Children supplies,unit,90,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,,Glue,,Psychosocial support - Children supplies,unit,24,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,,Sharpener,,Psychosocial support - Children supplies,unit,40,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,6,Undefined,#VALUE!,MISSION 21/5 *09,Dhading,Marpak,ward 5,28.0135,84.9646,28,84.91667,21-May-15
+,India,Tarp,,Shelter,unit,15,Undefined,#VALUE!,MISSION 21/5 *10,Kabhre Palanchok,DhulikhelN.P,"Sindhu, Listi, Chansingh",27.6217,85.5576,27.58333,85.66667,21-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 21/5 *11,Dolakha,Bulung,Bhirmundi,27.78444,86.18175,27.83333,86.25,21-May-15
+,,Dal,,Food - Dry Food,sack,2,25,50,MISSION 21/5 *11,Dolakha,Bulung,Bhirmundi,27.78444,86.18175,27.83333,86.25,21-May-15
+,,Salt,,Food - Dry Food,sack,2,25,50,MISSION 21/5 *11,Dolakha,Bulung,Bhirmundi,27.78444,86.18175,27.83333,86.25,21-May-15
+,,Beaten Rice,,Food - Dry Food,sack,4,25,100,MISSION 21/5 *11,Dolakha,Bulung,Bhirmundi,27.78444,86.18175,27.83333,86.25,21-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,15,Undefined,#VALUE!,MISSION 21/5 *11,Dolakha,Bulung,Bhirmundi,27.78444,86.18175,27.83333,86.25,21-May-15
+,Birgunj,Tarp,,Shelter,unit,75,Undefined,#VALUE!,MISSION 21/5 *11,Dolakha,Bulung,Bhirmundi,27.78444,86.18175,27.83333,86.25,21-May-15
+,India,Tarp,,Shelter,unit,115,Undefined,#VALUE!,MISSION 21/5 *11,Dolakha,Bulung,Bhirmundi,27.78444,86.18175,27.83333,86.25,21-May-15
+,,Blankets,,Shelter,unit,150,Undefined,#VALUE!,MISSION 22/5 *01,Sindhupalchok,Lisankhu,Wafal,27.65782,85.84673,27.82936,85.54504,22-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 22/5 *01,Sindhupalchok,Lisankhu,Wafal,27.65782,85.84673,27.82936,85.54504,22-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 22/5 *01,Sindhupalchok,Lisankhu,Wafal,27.65782,85.84673,27.82936,85.54504,22-May-15
+,,Dal,,Food - Dry Food,sack,2,25,50,MISSION 22/5 *01,Sindhupalchok,Lisankhu,Wafal,27.65782,85.84673,27.82936,85.54504,22-May-15
+,,Salt,,Food - Dry Food,sack,2,25,50,MISSION 22/5 *01,Sindhupalchok,Lisankhu,Wafal,27.65782,85.84673,27.82936,85.54504,22-May-15
+,India,Tarp,,Shelter,unit,199,Undefined,#VALUE!,MISSION 22/5 *01,Sindhupalchok,Lisankhu,Wafal,27.65782,85.84673,27.82936,85.54504,22-May-15
+,India,Tarp,,Shelter,unit,38,Undefined,#VALUE!,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,5,Undefined,#VALUE!,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,,Blankets,,Shelter,unit,32,Undefined,#VALUE!,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,,Pregnancy Kit,,Sanitation - supplies,unit,2,Undefined,#VALUE!,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,,Rice,,Food - Dry Food,sack,4,25,100,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,,Dal,,Food - Dry Food,sack,1,25,25,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,,Salt,,Food - Dry Food,pack,50,1,50,MISSION 22/5 *02,Sindhupalchok,ThuloDhading,KhaniDhading,27.64154,85.89696,27.82936,85.54504,22-May-15
+,India,Tarp,,Shelter,unit,5,Undefined,#VALUE!,MISSION 22/5 *03,Kathmandu District,KathmanduN.P.,Swayambu ward 15,27.70731,85.32218,27.70704,85.33218,22-May-15
+,,Beaten Rice,,Food - Dry Food,sack,2,25,50,MISSION 22/5 *03,Kathmandu District,KathmanduN.P.,Swayambu ward 15,27.70731,85.32218,27.70704,85.33218,22-May-15
+,,Dal,,Food - Dry Food,sack,1,25,25,MISSION 22/5 *03,Kathmandu District,KathmanduN.P.,Swayambu ward 15,27.70731,85.32218,27.70704,85.33218,22-May-15
+,,Rice,,Food - Dry Food,sack,2,25,50,MISSION 22/5 *03,Kathmandu District,KathmanduN.P.,Swayambu ward 15,27.70731,85.32218,27.70704,85.33218,22-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,120,Undefined,#VALUE!,MISSION 21/5 *05,Nuwakot,Gerkhu,"wards 3, 4, 9",27.95179,85.19261,27.964,83.0549,21-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,30,Undefined,#VALUE!,MISSION 21/5 *05,Nuwakot,Gerkhu,"wards 3, 4, 9",27.95179,85.19261,27.964,83.0549,21-May-15
+,India,Tarp,,Shelter,unit,10,Undefined,#VALUE!,MISSION 22/5 *04,Kathmandu District,KathmanduN.P.,Swayambu Langtang Camp (Yellow Gumba,27.70731,85.32218,27.70704,85.33218,22-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,5,Undefined,#VALUE!,MISSION 22/5 *05,Nuwakot,Mahakali,Nepane ward 9,27.87254,85.36866,27.964,83.0549,22-May-15
+,,Blankets,,Shelter,unit,49,Undefined,#VALUE!,MISSION 22/5 *05,Nuwakot,Mahakali,Nepane ward 9,27.87254,85.36866,27.964,83.0549,22-May-15
+,,Purification tablets,,Sanitation - Water purification,tabs,46,Undefined,#VALUE!,MISSION 22/5 *05,Nuwakot,Mahakali,Nepane ward 9,27.87254,85.36866,27.964,83.0549,22-May-15
+,,Sanitary pads,,Sanitation - supplies,box,1,Undefined,#VALUE!,MISSION 22/5 *05,Nuwakot,Mahakali,Nepane ward 9,27.87254,85.36866,27.964,83.0549,22-May-15
+,,Diapers,,Sanitation - Children supplies,box,2,Undefined,#VALUE!,MISSION 22/5 *05,Nuwakot,Mahakali,Nepane ward 9,27.87254,85.36866,27.964,83.0549,22-May-15
+,India,Tarp,,Shelter,unit,5,Undefined,#VALUE!,MISSION 22/5 *06,Kathmandu District,KathmanduN.P.,Dirghayu Guru Hospital and Research Center,27.70731,85.32218,27.70704,85.33218,22-May-15
+,India,Tarp,,Shelter,unit,231,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Blankets,,Shelter,unit,238,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Rice,,Food - Dry Food,sack,20,25,500,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Dal,,Food - Dry Food,sack,4,25,100,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Beaten Rice,,Food - Dry Food,sack,3,25,75,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,10,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,200,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,200,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Pencils,,Psychosocial support - Children supplies,unit,200,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Sharpener,,Psychosocial support - Children supplies,unit,200,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Eraser,,Psychosocial support - Children supplies,unit,200,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Pregnancy Kit,,Sanitation - supplies,unit,8,Undefined,#VALUE!,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Salt,,Food - Dry Food,sack,2,25,50,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,,Dalmot,,Food - Dry Food,sack,0.5,25,12.5,MISSION 23/5 *01,Sindhupalchok,ThuloDhading,Tandi (7) and Bersma (9),27.64154,85.89696,27.82936,85.54504,23-May-15
+,India,Tarp,,Shelter,unit,30,Undefined,#VALUE!,MISSION 23/5 *02,Sindhupalchok,Sindhupalchok,"different villages in Ramechhap, Dolakha, Okhaldhunga",27.82936,85.54504,27.82936,85.54504,23-May-15
+,UNHCR,Solar Lamps/Chargers (UNHCR),,Shelter,unit,4,Undefined,#VALUE!,MISSION 23/5 *03,Dolakha,Bigu,wards 7 & 8,27.83606,86.0703,27.83333,86.25,23-May-15
+,,Medical Kit,,Medicine,unit,4,Undefined,#VALUE!,MISSION 23/5 *04,Sindhupalchok,Thumpakhar,Mesida,27.72484,85.83839,27.82936,85.54504,23-May-15
+,,Sketch book,,Psychosocial support - Children supplies,unit,60,Undefined,#VALUE!,MISSION 23/5 *04,Sindhupalchok,Thumpakhar,Mesida,27.72484,85.83839,27.82936,85.54504,23-May-15
+,,Pencils,,Psychosocial support - Children supplies,unit,60,Undefined,#VALUE!,MISSION 23/5 *04,Sindhupalchok,Thumpakhar,Mesida,27.72484,85.83839,27.82936,85.54504,23-May-15
+,,Colour pencils,,Psychosocial support - Children supplies,unit,60,Undefined,#VALUE!,MISSION 23/5 *04,Sindhupalchok,Thumpakhar,Mesida,27.72484,85.83839,27.82936,85.54504,23-May-15
+,,Sharpener,,Psychosocial support - Children supplies,unit,60,Undefined,#VALUE!,MISSION 23/5 *04,Sindhupalchok,Thumpakhar,Mesida,27.72484,85.83839,27.82936,85.54504,23-May-15
+,,Eraser,,Psychosocial support - Children supplies,unit,60,Undefined,#VALUE!,MISSION 23/5 *04,Sindhupalchok,Thumpakhar,Mesida,27.72484,85.83839,27.82936,85.54504,23-May-15
+,,Medical Kit,,Medicine,unit,2,Undefined,#VALUE!,MISSION 24/5 *01,Sindhupalchok,Lagarche,,27.86499,85.64039,27.82936,85.54504,24-May-15
+,,Medical Kit,,Medicine,unit,3,Undefined,#VALUE!,MISSION 24/5 *02,Lalitpur,Sankhu,,27.5084,85.3367,27.58333,85.33333,24-May-15
+,,,,#N/A,,,#N/A,#N/A,,,,,#N/A,#N/A,#N/A,#N/A,
+,,,,,,,Undefined,#VALUE!,,,,,#N/A,#N/A,#N/A,#N/A,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
