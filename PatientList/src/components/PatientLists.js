@@ -3,7 +3,13 @@ import React from "react";
 import "./PatientLists.css";
 import Dialog from "material-ui/Dialog";
 
-import { ItemContainer, ItemLabel, ItemButton, Input } from "./shared";
+import {
+  ItemContainer,
+  ItemLabel,
+  ItemButton,
+  Input,
+  LabeledInfo
+} from "./shared";
 
 class PatientLists extends React.PureComponent {
   // all state actions are for handling the renaming dialog
@@ -91,10 +97,15 @@ class PatientLists extends React.PureComponent {
       }
       return (
         <ItemContainer key={list._id}>
-          <ItemLabel>{list.title}</ItemLabel>
-          <ItemLabel>Clinic Name </ItemLabel>
-          <ItemLabel>Number of Patients 33</ItemLabel>
-          <ItemLabel>Supply Status - Green</ItemLabel>
+          <ItemLabel>
+            Aid Station Name: <LabeledInfo>{list.title}</LabeledInfo>
+          </ItemLabel>
+          <ItemLabel>
+            Number of Patients: <LabeledInfo>33</LabeledInfo>
+          </ItemLabel>
+          <ItemLabel>
+            Supply Shortages: <LabeledInfo>None</LabeledInfo>
+          </ItemLabel>
           <ItemButton onClick={() => this.props.openListFunc(list._id)}>
             Open Patient List
           </ItemButton>

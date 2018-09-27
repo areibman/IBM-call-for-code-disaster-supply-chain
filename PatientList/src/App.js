@@ -1,21 +1,25 @@
 import React from "react";
+import styled from "styled-components";
+
 import { List } from "immutable";
-import styled, { injectGlobal } from "styled-components";
-// We're using Material Design React components from http://www.material-ui.com
+import PouchDB from "pouchdb";
+
+import PatientLists from "./components/PatientLists";
+import PatientList from "./components/PatientList";
+
+import {
+  Form,
+  FormPanel,
+  Input,
+  Panel,
+  PanelTitle,
+  LabeledInfo
+} from "./components/shared";
+
+// Use as little code from MUI as i can, but i dont wanna waste time
+// writing another dialog.
 import MuiThemeProvider from "material-ui/styles/MuiThemeProvider";
 import getMuiTheme from "material-ui/styles/getMuiTheme";
-import AppBar from "material-ui/AppBar";
-import Dialog from "material-ui/Dialog";
-import FlatButton from "material-ui/FlatButton";
-import FloatingActionButton from "material-ui/FloatingActionButton";
-import ContentAdd from "material-ui/svg-icons/content/add";
-import TextField from "material-ui/TextField";
-import Paper from "material-ui/Paper";
-import { Card, CardTitle } from "material-ui/Card";
-import IconButton from "material-ui/IconButton";
-import KeyboardBackspace from "material-ui/svg-icons/hardware/keyboard-backspace";
-import SettingsIcon from "material-ui/svg-icons/action/settings";
-import AboutIcon from "material-ui/svg-icons/action/info-outline";
 import {
   grey800,
   blueGrey500,
@@ -23,30 +27,6 @@ import {
   white
 } from "material-ui/styles/colors";
 
-import PouchDB from "pouchdb";
-
-import PatientLists from "./components/PatientLists";
-import PatientList from "./components/PatientList";
-
-injectGlobal`
-.App{
-  height: calc(100vh - 70px);
-  background-color: #92c1e9;
-}
-`;
-
-const Header = styled.div`
-  display: flex;
-  width: 100vw;
-  height: 70px;
-  background-color: rebeccapurple;
-  color: white;
-  align-items: center;
-  font-size: 16px;
-  padding: 0 10px;
-`;
-
-// create a custom color scheme for Material-UI
 const muiTheme = getMuiTheme({
   palette: {
     textColor: grey800,
@@ -56,10 +36,40 @@ const muiTheme = getMuiTheme({
   }
 });
 
-const appBarStyle = {
-  backgroundColor: blueGrey500,
-  width: "100%"
-};
+const AppContainer = styled.div`
+  height: 100vh;
+  background-color: white;
+  overflow: hidden;
+`;
+
+const Header = styled.div`
+  display: flex;
+  width: 100vw;
+  height: 70px;
+  background-color: #339966;
+  color: white;
+  align-items: center;
+  font-size: 16px;
+  padding: 0 10px;
+`;
+
+const ListsAndItems = styled.div`
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 70px);
+  padding: 10px;
+  overflow: scroll;
+`;
+
+const BackButton = styled.div`
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border-right: 1px solid white;
+  padding-right: 10px;
+  margin-right: 10px;
+`;
 
 const NOLISTMSG =
   "You have no locations. This likely means the db is not connected.";
@@ -110,10 +120,10 @@ class App extends React.Component {
       .on("change", change => {
         this.getPouchDocs();
       })
-      // .on('paused', info => console.log('replication paused.'))
-      // .on('active', info => console.log('replication resumed.'))
+      // .on('paused', info => console.warn('replication paused.'))
+      // .on('active', info => console.warn('replication resumed.'))
       .on("error", err =>
-        console.log("uh oh! an error occured while synching.")
+        console.warn("uh oh! an error occured while synching.")
       );
   };
 
@@ -127,8 +137,8 @@ class App extends React.Component {
     this.props.patientListRepository
       .find()
       .then(foundLists => {
-        console.log(
-          "GOT SHOPPING LISTS FROM POUCHDB. COUNT: " + foundLists.size
+        console.warn(
+          "GOT PATIENT LISTS FROM POUCHDB. COUNT: " + foundLists.size
         );
         lists = foundLists;
         return foundLists;
@@ -137,8 +147,8 @@ class App extends React.Component {
         return this.props.patientListRepository.findItemsCountByList();
       })
       .then(countsList => {
-        console.log("TOTAL COUNT LIST");
-        console.log(countsList);
+        console.warn("TOTAL COUNT LIST");
+        console.warn(countsList);
         totalCount = countsList;
         return this.props.patientListRepository.findItemsCountByList({
           selector: {
@@ -149,8 +159,8 @@ class App extends React.Component {
         });
       })
       .then(checkedList => {
-        console.log("CHECKED LIST");
-        console.log(checkedList);
+        console.warn("CHECKED LIST");
+        console.warn(checkedList);
         checkedCount = checkedList;
         this.setState({
           view: "lists",
@@ -223,13 +233,61 @@ class App extends React.Component {
    * @param {string} newname new name of the item
    */
   renamePatientListItem = (itemid, newname) => {
-    console.log(
+    console.warn(
       "IN renamePatientListItem with id=" + itemid + ", name=" + newname
     );
     this.props.patientListRepository
       .getItem(itemid)
       .then(item => {
         item = item.set("name", newname);
+        return this.props.patientListRepository.putItem(item);
+      })
+      .then(this.refreshPatientListItems(this.state.patientList._id));
+  };
+
+  /**
+   * Change the status publicity of an item
+   * @param {string} itemid id of an item
+   */
+  changeStatusPublicity = itemid => {
+    console.warn("change publicity of patient status");
+    this.props.patientListRepository
+      .getItem(itemid)
+      .then(item => {
+        const currentPublicity = item.statusPublic;
+        item = item.set("statusPublic", !currentPublicity);
+        return this.props.patientListRepository.putItem(item);
+      })
+      .then(this.refreshPatientListItems(this.state.patientList._id));
+  };
+
+  /**
+   * Change the location publicity of an item
+   * @param {string} itemid id of an item
+   */
+  changeLocationPublicity = itemid => {
+    console.warn("change publicity of patient location");
+    this.props.patientListRepository
+      .getItem(itemid)
+      .then(item => {
+        const currentPublicity = item.locationPublic;
+        item = item.set("locationPublic", !currentPublicity);
+        return this.props.patientListRepository.putItem(item);
+      })
+      .then(this.refreshPatientListItems(this.state.patientList._id));
+  };
+
+  /**
+   * Change the patients health status
+   * @param {string} itemid id of an item
+   * @param {string} newstatus new status of the item
+   */
+  changePatientStatus = (itemid, newstatus) => {
+    console.warn("change patient health status");
+    this.props.patientListRepository
+      .getItem(itemid)
+      .then(item => {
+        item = item.set("healthStatus", newstatus);
         return this.props.patientListRepository.putItem(item);
       })
       .then(this.refreshPatientListItems(this.state.patientList._id));
@@ -379,7 +437,6 @@ class App extends React.Component {
    * Tell the component we're in adding list or item mode
    */
   displayAddingUI = () => {
-    console.log("dididididi");
     this.setState({ adding: true });
   };
 
@@ -388,12 +445,9 @@ class App extends React.Component {
    */
   renderNewNameUI = () => {
     return (
-      <form
-        onSubmit={this.createNewPatientListOrItem}
-        style={{ marginTop: "12px" }}
-      >
-        <Paper>
-          <TextField
+      <Form onSubmit={this.createNewPatientListOrItem}>
+        <FormPanel>
+          <Input
             className="form-control"
             type="text"
             autoFocus={true}
@@ -403,8 +457,8 @@ class App extends React.Component {
             style={{ padding: "0px 12px", width: "calc(100% - 24px)" }}
             underlineStyle={{ width: "calc(100% - 24px)" }}
           />
-        </Paper>
-      </form>
+        </FormPanel>
+      </Form>
     );
   };
 
@@ -414,9 +468,9 @@ class App extends React.Component {
   renderPatientLists = () => {
     if (this.state.patientLists.length < 1)
       return (
-        <Card style={{ margin: "12px 0" }}>
-          <CardTitle title={NOLISTMSG} />
-        </Card>
+        <Panel>
+          <PanelTitle title={NOLISTMSG}>{NOLISTMSG}</PanelTitle>
+        </Panel>
       );
     return (
       <PatientLists
@@ -437,12 +491,15 @@ class App extends React.Component {
   renderPatientListItems = () => {
     return (
       <React.Fragment>
-        <Card onClick={this.displayAddingUI} style={{ margin: "12px 0" }}>
-          <CardTitle title={NOITEMSMSG} />
-        </Card>
+        <Panel onClick={this.displayAddingUI}>
+          <PanelTitle title={NOITEMSMSG}>{NOITEMSMSG}</PanelTitle>
+        </Panel>
         <PatientList
           patientListItems={this.state.patientListItems}
           deleteFunc={this.deletePatientListItem}
+          changeStatusPublicity={this.changeStatusPublicity}
+          changeLocationPublicity={this.changeLocationPublicity}
+          changePatientStatus={this.changePatientStatus}
           toggleItemCheckFunc={this.toggleItemCheck}
           renameItemFunc={this.renamePatientListItem}
         />
@@ -457,35 +514,11 @@ class App extends React.Component {
   renderBackButton = () => {
     if (this.state.view === "items")
       return (
-        <IconButton touch={true} onClick={this.getPatientLists}>
-          <KeyboardBackspace />
-        </IconButton>
+        <BackButton touch={true} onClick={this.getPatientLists}>
+          {"<- Back to Aid Stations"}
+        </BackButton>
       );
     else return <div>{""}</div>;
-  };
-
-  renderActionButtons = () => {
-    const iconStyle = {
-      fill: "white"
-    };
-    return (
-      <div>
-        <IconButton
-          touch={true}
-          onClick={this.handleOpenSettings}
-          iconStyle={iconStyle}
-        >
-          <SettingsIcon />
-        </IconButton>
-        <IconButton
-          touch={true}
-          onClick={this.handleOpenAbout}
-          iconStyle={iconStyle}
-        >
-          <AboutIcon />
-        </IconButton>
-      </div>
-    );
   };
 
   /**
@@ -524,134 +557,31 @@ class App extends React.Component {
       this.remoteDB = new PouchDB(this.tempdburl);
       this.syncToRemote();
     } catch (ex) {
-      console.log("Error setting remote database: ");
-      console.log(ex);
+      console.warn("Error setting remote database: ");
+      console.warn(ex);
     }
     this.handleCloseSettings();
   };
 
-  /**
-   * Show settings dialog UI
-   */
-  showSettingsDialog = () => {
-    const actions = [
-      <FlatButton
-        label="Cancel"
-        primary={false}
-        keyboardFocused={true}
-        onClick={this.handleCloseSettings}
-      />,
-      <FlatButton
-        label="Submit"
-        primary={true}
-        onClick={this.handleSubmitSettings}
-      />
-    ];
-
-    return (
-      <Dialog
-        title="Patient List Settings"
-        actions={actions}
-        modal={false}
-        open={this.state.settingsOpen}
-        onRequestClose={this.handleCloseSettings}
-      >
-        <p>
-          Enter a fully qualified URL (including username and password) to a
-          remote IBM Cloudant, Apache CouchDB, or PouchDB database to sync your
-          patient list.
-        </p>
-        <TextField
-          id="db-url"
-          floatingLabelText="https://username:password@localhost:5984/database"
-          fullWidth={true}
-          onChange={e => {
-            this.tempdburl = e.target.value;
-          }}
-        />
-      </Dialog>
-    );
-  };
-
-  /**
-   * Show about dialog UI
-   */
-  showAboutDialog = () => {
-    const actions = [
-      <FlatButton
-        label="Close"
-        primary={false}
-        keyboardFocused={true}
-        onClick={this.handleCloseAbout}
-      />
-    ];
-
-    return (
-      <Dialog
-        title="About"
-        actions={actions}
-        modal={false}
-        open={this.state.aboutOpen}
-        onRequestClose={this.handleAboutSettings}
-      >
-        <p>
-          <a
-            href="https://github.com/ibm-watson-data-lab/patient-list"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Patient List is a series of Offline First demo apps, each built
-            using a different stack.
-          </a>
-          These demo apps cover Progressive Web Apps, hybrid mobile apps, native
-          mobile apps, and desktop apps. This particular demo app is a
-          <strong>Progressive Web App</strong>
-          built using <strong>React and PouchDB</strong>.
-          <a
-            href="https://github.com/ibm-watson-data-lab/patient-list-react-pouchdb"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Get the source code
-          </a>.
-        </p>
-      </Dialog>
-    );
-  };
-
-  /**
-   * Show the UI
-   */
   render() {
     let screenname = "Aid Stations";
-    if (this.state.view === "items") screenname = this.state.patientList.title;
+    if (this.state.view === "items")
+      screenname = "Patients at: " + this.state.patientList.title;
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
-        <div className="App">
+        <AppContainer>
           <Header title={screenname}>
             {this.renderBackButton()}
             {screenname}
           </Header>
-          <div className={"listsanditems"} style={{ margin: "8px" }}>
-            {this.state.adding ? this.renderNewNameUI() : <span />}
+          <ListsAndItems>
             {this.state.view === "lists"
               ? this.renderPatientLists()
               : this.renderPatientListItems()}
-          </div>
-          {this.state.settingsOpen ? this.showSettingsDialog() : <span />}
-          {this.state.aboutOpen ? this.showAboutDialog() : <span />}
-        </div>
+          </ListsAndItems>
+        </AppContainer>
       </MuiThemeProvider>
     );
   }
 }
-/*
-<FloatingActionButton
-  onClick={this.displayAddingUI}
-  mini={true}
-  style={{ position: "fixed", bottom: "25px", right: "25px" }}
->
-  <ContentAdd />
-</FloatingActionButton>
-*/
 export default App;
