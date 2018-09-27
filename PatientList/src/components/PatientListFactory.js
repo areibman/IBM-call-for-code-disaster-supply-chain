@@ -25,6 +25,7 @@ class PatientListFactory {
       location: undefined,
       statusPublic: false,
       locationPublic: false,
+      healthStatus: "",
       type: "item",
       version: 1,
       list: undefined,

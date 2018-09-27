@@ -3,8 +3,15 @@ import styled from "styled-components";
 
 import "./PatientList.css";
 import Dialog from "material-ui/Dialog";
-
-import { ItemContainer, ItemLabel, ItemButton, Input } from "./shared";
+import { PatientStatusButton } from "./PatientStatusButton";
+import {
+  ItemContainer,
+  ItemLabel,
+  ItemButton,
+  Input,
+  LabeledInfo,
+  Buttons
+} from "./shared";
 
 class PatientList extends React.Component {
   /* all state actions are for handling the renaming dialog */
@@ -103,21 +110,44 @@ class PatientList extends React.Component {
       }
       return (
         <ItemContainer key={item._id}>
-          <ItemLabel>Patient Name: {item.name}</ItemLabel>
-          <ItemLabel>Location: Uganda ~-DeWay-~</ItemLabel>
-          <ItemLabel>Status: Yellow</ItemLabel>
           <ItemLabel>
-            <input type="checkbox" />Status Public
+            Patient Name: <LabeledInfo>{item.name}</LabeledInfo>
           </ItemLabel>
           <ItemLabel>
-            <input type="checkbox" />Location Public
+            Location: <LabeledInfo>Uganda ~-DeWay-~</LabeledInfo>
           </ItemLabel>
-          <ItemButton onClick={() => this.props.deleteFunc(item._id)}>
-            Remove Patient
-          </ItemButton>
-          <ItemButton onClick={() => this.handleOpen(item._id, item.name)}>
-            Edit Patient Name
-          </ItemButton>
+          <ItemLabel>
+            Status:{"  " + item.healthStatus}
+            <PatientStatusButton
+              healthStatus={item.healthStatus}
+              changePatientStatus={this.props.changePatientStatus}
+              id={item._id}
+            />
+          </ItemLabel>
+          <ItemLabel>
+            <input
+              onChange={() => this.props.changeStatusPublicity(item._id)}
+              type="checkbox"
+              checked={item.statusPublic}
+            />
+            {"  "}Status Public
+          </ItemLabel>
+          <ItemLabel>
+            <input
+              onChange={() => this.props.changeLocationPublicity(item._id)}
+              type="checkbox"
+              checked={item.locationPublic}
+            />
+            {"  "}Location Public
+          </ItemLabel>
+          <Buttons>
+            <ItemButton onClick={() => this.props.deleteFunc(item._id)}>
+              Remove Patient
+            </ItemButton>
+            <ItemButton onClick={() => this.handleOpen(item._id, item.name)}>
+              Edit Patient Name
+            </ItemButton>
+          </Buttons>
         </ItemContainer>
       );
     });
