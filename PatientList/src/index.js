@@ -19,7 +19,7 @@ try {
     remoteDB = new PouchDB(Credentials.default.cloudant_url);
   }
 } catch (ex) {
-  console.log("secret.js file missing; disabling remote sync.");
+  console.warn("secret.js file missing; disabling remote sync.");
 }
 // these are framework-independent interfaces for working with lists and items in the list
 const patientListFactory = new PatientListFactory();
@@ -42,6 +42,6 @@ patientListRepository
     );
   })
   .catch(reason => {
-    console.log("in put catch");
-    console.log(reason);
+    console.warn("in put catch");
+    console.warn(reason);
   });

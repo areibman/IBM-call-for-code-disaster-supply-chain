@@ -7,14 +7,7 @@ import PouchDB from "pouchdb";
 import PatientLists from "./components/PatientLists";
 import PatientList from "./components/PatientList";
 
-import {
-  Form,
-  FormPanel,
-  Input,
-  Panel,
-  PanelTitle,
-  LabeledInfo
-} from "./components/shared";
+import { Form, FormPanel, Input, Panel, PanelTitle } from "./components/shared";
 
 // Use as little code from MUI as i can, but i dont wanna waste time
 // writing another dialog.
@@ -116,14 +109,14 @@ class App extends React.Component {
    */
   syncToRemote = () => {
     this.props.localDB
-      .sync(this.remoteDB, { live: true, retry: true })
+      .sync(this.remoteDB)
       .on("change", change => {
         this.getPouchDocs();
       })
       // .on('paused', info => console.warn('replication paused.'))
       // .on('active', info => console.warn('replication resumed.'))
       .on("error", err =>
-        console.warn("uh oh! an error occured while synching.")
+        console.warn("uh oh! an error occured while syncing.")
       );
   };
 
@@ -575,6 +568,7 @@ class App extends React.Component {
             {screenname}
           </Header>
           <ListsAndItems>
+            {this.state.adding && this.renderNewNameUI()}
             {this.state.view === "lists"
               ? this.renderPatientLists()
               : this.renderPatientListItems()}
