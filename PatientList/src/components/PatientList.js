@@ -138,6 +138,21 @@ class PatientList extends React.Component {
               checked={item.locationPublic}
             />
             {"  "}Location Public
+            <br />
+            <span style={{ fontSize: "12px" }}>
+              By clicking either of these boxes you agree to to waive your right
+              to privacy and allow others to query your health status and or
+              whereabouts.
+            </span>
+            <span style={{ fontSize: "12px" }}>
+              A supplemental act was passed in 2009 called The Health
+              Information Technology for Economic and Clinical Health (HITECH)
+              Act which supports the enforcement of HIPAA requirements by
+              raising the penalties of health organizations that violate HIPAA
+              Privacy and Security Rules. The HITECH Act was formed in response
+              to health technology development and increased use, storage and
+              transmittal of electronic health information.
+            </span>
           </ItemLabel>
           <Buttons>
             <ItemButton onClick={() => this.props.deleteFunc(item._id)}>
