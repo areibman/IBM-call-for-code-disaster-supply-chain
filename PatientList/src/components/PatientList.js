@@ -1,5 +1,8 @@
 import React from "react";
-import styled from "styled-components";
+
+import Select from "react-select";
+
+import { locations } from "./locations.js";
 
 import "./PatientList.css";
 import Dialog from "material-ui/Dialog";
@@ -14,17 +17,46 @@ import {
 } from "./shared";
 
 class PatientList extends React.Component {
-  /* all state actions are for handling the renaming dialog */
   state = {
     open: false,
-    activeItemId: "",
+    activepatientId: "",
     oldName: "",
+    oldSupplyName: "",
+    oldSupplyAmount: "",
+    oldPatientLocation: "",
     newName: "",
-    search: ""
+    supplyName: "",
+    supplyAmount: "",
+    search: "",
+    location: { value: "", label: "" }
   };
 
-  handleOpen = (itemid, itemtitle) => {
-    this.setState({ open: true, activeItemId: itemid, oldName: itemtitle });
+  handleOpen = (
+    patientId,
+    patientName,
+    patientSupplyName,
+    patientSupplyAmount,
+    patientLocation
+  ) => {
+    console.log(
+      "handle open with",
+      "name",
+      patientName,
+      "suppname",
+      patientSupplyName,
+      "suppamt",
+      patientSupplyAmount,
+      "label",
+      patientLocation
+    );
+    this.setState({
+      open: true,
+      activepatientId: patientId,
+      newName: patientName,
+      supplyName: patientSupplyName,
+      supplyAmount: patientSupplyAmount,
+      location: { value: patientLocation, label: patientLocation }
+    });
   };
 
   handleClose = () => {
@@ -32,24 +64,48 @@ class PatientList extends React.Component {
   };
 
   handleSubmit = e => {
-    this.props.renameItemFunc(this.state.activeItemId, this.state.newName);
+    console.log(
+      "Submitting with",
+      "name",
+      this.state.newName,
+      "suppname",
+      this.state.supplyName,
+      "suppamt",
+      this.state.supplyAmount,
+      "label",
+      this.state.location.label
+    );
+    this.props.editPatientFunc(
+      this.state.activepatientId,
+      this.state.newName,
+      this.state.supplyName,
+      this.state.supplyAmount,
+      this.state.location.label
+    );
     this.handleClose();
+  };
+
+  changeLocation = location => {
+    this.setState({ location: location });
   };
 
   updateName = e => {
     this.setState({ newName: e.target.value });
   };
 
+  updateSupplyName = e => {
+    this.setState({ supplyName: e.target.value });
+  };
+
+  updateSupplyAmount = e => {
+    this.setState({ supplyAmount: e.target.value });
+  };
+
   searchChange = e => {
     this.setState({ search: e.target.value });
   };
-  /**
-   * Show the UI. The most important thing happening here is that the UI elements
-   * make use of the functions passed into the component as props to do all the heavy
-   * lifting of manipulating patient list items, so this component is pure UI.
-   */
+
   render() {
-    /* rename dialog stuff */
     const actions = [
       <ItemButton title="Cancel" primary={true} onClick={this.handleClose}>
         Cancel
@@ -63,44 +119,10 @@ class PatientList extends React.Component {
         Submit
       </ItemButton>
     ];
-    /* end rename dialog stuff */
 
-    // let items = this.props.patientListItems.map(item => (
-    //   <div key={"listitem_" + item._id}>
-    //     <ListItem
-    //       className="patientlistitem"
-    //       primaryText={
-    //         <span className={item.checked ? "checkeditem" : "uncheckeditem"}>
-    //           {item.title}
-    //         </span>
-    //       }
-    //       leftCheckbox={
-    //         <Checkbox
-    //           onCheck={this.props.toggleItemCheckFunc}
-    //           data-item={item._id}
-    //           data-id={item._id}
-    //           checked={item.checked}
-    //         />
-    //       }
-    //       rightIconButton={
-    //         <IconMenu
-    //           iconButtonElement={moveVertButton}
-    //           className="vertmenu-list"
-    //         >
-    //           <MenuItem
-    //             primaryText="Rename"
-    //             onClick={() => this.handleOpen(item._id, item.title)}
-    //           />
-    //           <MenuItem
-    //             primaryText="Delete"
-    //             onClick={() => this.props.deleteFunc(item._id)}
-    //           />
-    //         </IconMenu>
-    //       }
-    //     />
-    //     <Divider inset={true} />
-    //   </div>
-    // ));
+    const selectLocations = locations.map(location => {
+      return { value: location, label: location };
+    });
 
     const items = this.props.patientListItems.map(item => {
       if (this.state.search) {
@@ -108,14 +130,13 @@ class PatientList extends React.Component {
           return null;
         }
       }
+
       return (
         <ItemContainer key={item._id}>
           <ItemLabel>
             Patient Name: <LabeledInfo>{item.name}</LabeledInfo>
           </ItemLabel>
-          <ItemLabel>
-            Location: <LabeledInfo>Uganda ~-DeWay-~</LabeledInfo>
-          </ItemLabel>
+          <ItemLabel>Location: {item.location}</ItemLabel>
           <ItemLabel>
             Status:{"  " + item.healthStatus}
             <PatientStatusButton
@@ -123,6 +144,11 @@ class PatientList extends React.Component {
               changePatientStatus={this.props.changePatientStatus}
               id={item._id}
             />
+          </ItemLabel>
+          <ItemLabel>
+            Supply Name {item.supplyName}
+            <br />
+            Supply Amount {item.supplyAmount}
           </ItemLabel>
           <ItemLabel>
             <input
@@ -144,13 +170,30 @@ class PatientList extends React.Component {
             <ItemButton onClick={() => this.props.deleteFunc(item._id)}>
               Remove Patient
             </ItemButton>
-            <ItemButton onClick={() => this.handleOpen(item._id, item.name)}>
-              Edit Patient Name
+            <ItemButton
+              onClick={() =>
+                this.handleOpen(
+                  item._id,
+                  item.name,
+                  item.supplyName,
+                  item.supplyAmount,
+                  item.location
+                )
+              }
+            >
+              Edit Patient
             </ItemButton>
           </Buttons>
         </ItemContainer>
       );
     });
+
+    const customStyles = {
+      menu: (base, state) => ({
+        ...base,
+        maxHeight: "240px;"
+      })
+    };
 
     return (
       <div>
@@ -160,22 +203,54 @@ class PatientList extends React.Component {
         />
         <div>{items}</div>
         <Dialog
-          title="Rename Item"
+          title="Edit Patient"
           actions={actions}
           modal={false}
           open={this.state.open}
           onRequestClose={this.handleClose}
         >
-          {/* <form onSubmit={this.handleSubmit}> */}
-          <Input
-            className="form-control"
-            type="text"
-            id="textfield-item-rename"
-            defaultValue={this.state.oldName}
-            onChange={this.updateName}
-            fullWidth={true}
-          />
-          {/* </form> */}
+          <ItemLabel>
+            Location
+            <Select
+              styles={customStyles}
+              value={this.state.location}
+              onChange={this.changeLocation}
+              options={selectLocations}
+            />
+          </ItemLabel>
+          <ItemLabel>
+            Name
+            <Input
+              className="form-control"
+              type="text"
+              id="textfield-item-rename"
+              defaultValue={this.state.newName}
+              onChange={this.updateName}
+              fullWidth={true}
+            />
+          </ItemLabel>
+          <ItemLabel>
+            Supply name
+            <Input
+              className="form-control"
+              type="text"
+              id="textfield-item-rename"
+              defaultValue={this.state.supplyName}
+              onChange={this.updateSupplyName}
+              fullWidth={true}
+            />
+          </ItemLabel>
+          <ItemLabel>
+            Supply amount
+            <Input
+              className="form-control"
+              type="text"
+              id="textfield-item-rename"
+              defaultValue={this.state.supplyAmount}
+              onChange={this.updateSupplyAmount}
+              fullWidth={true}
+            />
+          </ItemLabel>
         </Dialog>
       </div>
     );
