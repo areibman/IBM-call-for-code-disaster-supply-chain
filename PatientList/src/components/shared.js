@@ -54,8 +54,6 @@ export const Form = styled.form`
 `;
 
 export const Panel = styled.div`
-  padding: 4px;
-  margin: 4px;
   width: 100%;
 `;
 

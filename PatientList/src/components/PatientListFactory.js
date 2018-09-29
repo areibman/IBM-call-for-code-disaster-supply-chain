@@ -26,6 +26,8 @@ class PatientListFactory {
       statusPublic: false,
       locationPublic: false,
       healthStatus: "",
+      supplyName: "",
+      supplyAmount: "",
       type: "item",
       version: 1,
       list: undefined,

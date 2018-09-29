@@ -13,7 +13,7 @@ import {
   Input,
   Panel,
   PanelTitle,
-  LabeledInfo
+  ItemLabel
 } from "./components/shared";
 
 // Use as little code from MUI as i can, but i dont wanna waste time
@@ -116,14 +116,14 @@ class App extends React.Component {
    */
   syncToRemote = () => {
     this.props.localDB
-      .sync(this.remoteDB, { live: true, retry: true })
+      .sync(this.remoteDB)
       .on("change", change => {
         this.getPouchDocs();
       })
       // .on('paused', info => console.warn('replication paused.'))
       // .on('active', info => console.warn('replication resumed.'))
       .on("error", err =>
-        console.warn("uh oh! an error occured while synching.")
+        console.warn("uh oh! an error occured while syncing.", err)
       );
   };
 
@@ -232,7 +232,7 @@ class App extends React.Component {
    * @param {string} itemid id of an item
    * @param {string} newname new name of the item
    */
-  renamePatientListItem = (itemid, newname) => {
+  editPatient = (itemid, newname, newsupply, newsupplyamount, newlocation) => {
     console.warn(
       "IN renamePatientListItem with id=" + itemid + ", name=" + newname
     );
@@ -240,6 +240,9 @@ class App extends React.Component {
       .getItem(itemid)
       .then(item => {
         item = item.set("name", newname);
+        item = item.set("supplyName", newsupply);
+        item = item.set("supplyAmount", newsupplyamount);
+        item = item.set("location", newlocation);
         return this.props.patientListRepository.putItem(item);
       })
       .then(this.refreshPatientListItems(this.state.patientList._id));
@@ -447,16 +450,18 @@ class App extends React.Component {
     return (
       <Form onSubmit={this.createNewPatientListOrItem}>
         <FormPanel>
-          <Input
-            className="form-control"
-            type="text"
-            autoFocus={true}
-            hintText="Name..."
-            onChange={this.updateName}
-            fullWidth={false}
-            style={{ padding: "0px 12px", width: "calc(100% - 24px)" }}
-            underlineStyle={{ width: "calc(100% - 24px)" }}
-          />
+          <ItemLabel>
+            Add Patient:
+            <Input
+              className="form-control"
+              type="text"
+              autoFocus={true}
+              hintText="Name..."
+              onChange={this.updateName}
+              fullWidth={false}
+              underlineStyle={{ width: "calc(100% - 24px)" }}
+            />
+          </ItemLabel>
         </FormPanel>
       </Form>
     );
@@ -501,7 +506,7 @@ class App extends React.Component {
           changeLocationPublicity={this.changeLocationPublicity}
           changePatientStatus={this.changePatientStatus}
           toggleItemCheckFunc={this.toggleItemCheck}
-          renameItemFunc={this.renamePatientListItem}
+          editPatientFunc={this.editPatient}
         />
       </React.Fragment>
     );
@@ -575,6 +580,7 @@ class App extends React.Component {
             {screenname}
           </Header>
           <ListsAndItems>
+            {this.state.adding && this.renderNewNameUI()}
             {this.state.view === "lists"
               ? this.renderPatientLists()
               : this.renderPatientListItems()}

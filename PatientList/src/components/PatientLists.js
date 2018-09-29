@@ -61,33 +61,6 @@ class PatientLists extends React.PureComponent {
         Submit
       </ItemButton>
     ];
-    /* end rename dialog stuff */
-
-    //   let listItems = this.props.patientLists.map( (list) =>
-    //   <Card key={list._id} style={{margin:"12px 0"}}>
-    //     <CardTitle
-    //       title={list.title}
-    //       children={
-    //         <IconMenu iconButtonElement={iconButtonElement}
-    //           className="vertmenu-list">
-    //           <MenuItem
-    //             primaryText="Open"
-    //             onClick={()=>this.props.openListFunc(list._id)}/>
-    //           <MenuItem
-    //             primaryText="Rename"
-    //             onClick={()=>this.handleOpen(list._id, list.title)}/>
-    //           <MenuItem
-    //             primaryText="Delete"
-    //             onClick={()=>this.props.deleteListFunc(list._id)}/>
-    //         </IconMenu>
-    //       } />
-    //     <CardActions>
-    //       <Checkbox label={(this.props.checkedCounts.get(list._id) || 0)+' of '+(this.props.totalCounts.get(list._id) || 0)+' items checked'}
-    //         checked={list.checked}
-    //         onCheck={()=>this.props.checkAllFunc(list._id)} />
-    //     </CardActions>
-    //   </Card>
-    // )
 
     const listItems = this.props.patientLists.map(list => {
       if (this.state.search) {
@@ -99,12 +72,6 @@ class PatientLists extends React.PureComponent {
         <ItemContainer key={list._id}>
           <ItemLabel>
             Aid Station Name: <LabeledInfo>{list.title}</LabeledInfo>
-          </ItemLabel>
-          <ItemLabel>
-            Number of Patients: <LabeledInfo>33</LabeledInfo>
-          </ItemLabel>
-          <ItemLabel>
-            Supply Shortages: <LabeledInfo>None</LabeledInfo>
           </ItemLabel>
           <ItemButton onClick={() => this.props.openListFunc(list._id)}>
             Open Patient List
