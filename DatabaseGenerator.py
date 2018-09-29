@@ -3,7 +3,8 @@
 
 # In[1]:
 
-
+import warnings
+warnings.filterwarnings("ignore")
 import pandas as pd
 import pixiedust
 import numpy as np

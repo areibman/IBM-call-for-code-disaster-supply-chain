@@ -6,8 +6,8 @@ from math import exp, factorial
 MAX_SUPPLIES = 20  # maximum #supplies in a location
 MOVE_COST = 2  # cost for moving a supply
 RENTAL_REWARD = 10  # reward from one rented supply
-AVG_RENTAL_1 = 5  # average #rentals at location 1
-AVG_RENTAL_2 = 9  # average #rentals at location 2
+AVG_RENTAL_1 = 3  # average #rentals at location 1
+AVG_RENTAL_2 = 5  # average #rentals at location 2
 AVG_RETURN_1 = 0  # average #returns at location 1
 AVG_RETURN_2 = 0  # average #returns at location 2
 DISCOUNT = 0.9
