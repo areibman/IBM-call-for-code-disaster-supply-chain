@@ -1,9 +1,5 @@
 import React from "react";
 
-import Select from "react-select";
-
-import { locations } from "./locations.js";
-
 import "./PatientList.css";
 import Dialog from "material-ui/Dialog";
 import { PatientStatusButton } from "./PatientStatusButton";
@@ -38,17 +34,6 @@ class PatientList extends React.Component {
     patientSupplyAmount,
     patientLocation
   ) => {
-    console.log(
-      "handle open with",
-      "name",
-      patientName,
-      "suppname",
-      patientSupplyName,
-      "suppamt",
-      patientSupplyAmount,
-      "label",
-      patientLocation
-    );
     this.setState({
       open: true,
       activepatientId: patientId,
@@ -64,17 +49,7 @@ class PatientList extends React.Component {
   };
 
   handleSubmit = e => {
-    console.log(
-      "Submitting with",
-      "name",
-      this.state.newName,
-      "suppname",
-      this.state.supplyName,
-      "suppamt",
-      this.state.supplyAmount,
-      "label",
-      this.state.location.label
-    );
+    this.props.refreshPatientListItems();
     this.props.editPatientFunc(
       this.state.activepatientId,
       this.state.newName,
@@ -120,9 +95,7 @@ class PatientList extends React.Component {
       </ItemButton>
     ];
 
-    const selectLocations = locations.map(location => {
-      return { value: location, label: location };
-    });
+    console.log(this.props.patientListItems);
 
     const items = this.props.patientListItems.map(item => {
       if (this.state.search) {
@@ -136,7 +109,7 @@ class PatientList extends React.Component {
           <ItemLabel>
             Patient Name: <LabeledInfo>{item.name}</LabeledInfo>
           </ItemLabel>
-          <ItemLabel>Location: {item.location}</ItemLabel>
+          <ItemLabel>Location: {this.props.location}</ItemLabel>
           <ItemLabel>
             Status:{"  " + item.healthStatus}
             <PatientStatusButton
@@ -188,13 +161,6 @@ class PatientList extends React.Component {
       );
     });
 
-    const customStyles = {
-      menu: (base, state) => ({
-        ...base,
-        maxHeight: "240px;"
-      })
-    };
-
     return (
       <div>
         Search Patients:<Input
@@ -209,15 +175,6 @@ class PatientList extends React.Component {
           open={this.state.open}
           onRequestClose={this.handleClose}
         >
-          <ItemLabel>
-            Location
-            <Select
-              styles={customStyles}
-              value={this.state.location}
-              onChange={this.changeLocation}
-              options={selectLocations}
-            />
-          </ItemLabel>
           <ItemLabel>
             Name
             <Input

@@ -41,6 +41,10 @@ class PatientLists extends React.PureComponent {
   searchChange = e => {
     this.setState({ search: e.target.value });
   };
+
+  openList = listid => {
+    this.props.openListFunc(listid, this.props.refreshPatientListItems());
+  };
   /**
    * Show the UI. The most important thing happening here is that the UI elements
    * make use of the functions passed into the component as props to do all the heavy
@@ -61,19 +65,24 @@ class PatientLists extends React.PureComponent {
         Submit
       </ItemButton>
     ];
-
+    let used = [];
     const listItems = this.props.patientLists.map(list => {
+      if (used.includes(list["Location name"])) {
+        return null;
+      }
       if (this.state.search) {
-        if (!list.title.includes(this.state.search)) {
+        if (!list["Location name"].includes(this.state.search)) {
           return null;
         }
       }
+      used.push(list["Location name"]);
+
       return (
         <ItemContainer key={list._id}>
           <ItemLabel>
-            Aid Station Name: <LabeledInfo>{list.title}</LabeledInfo>
+            Aid Station Name: <LabeledInfo>{list["Location name"]}</LabeledInfo>
           </ItemLabel>
-          <ItemButton onClick={() => this.props.openListFunc(list._id)}>
+          <ItemButton onClick={() => this.openList(list._id)}>
             Open Patient List
           </ItemButton>
         </ItemContainer>

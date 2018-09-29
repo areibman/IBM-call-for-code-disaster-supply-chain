@@ -84,7 +84,7 @@ class App extends React.Component {
     // manage remoteDB here because user might change it via the UI
     // but don't put it in state because changing the backend db doesn't require a re-render
     this.remoteDB = props.remoteDB;
-
+    console.log("construct");
     this.state = {
       patientList: null,
       patientLists: [],
@@ -166,7 +166,6 @@ class App extends React.Component {
           view: "lists",
           patientLists: lists,
           patientList: null,
-          patientListItems: null,
           checkedTotalPatientListItemCount: checkedCount,
           totalPatientListItemCount: totalCount
         });
@@ -177,7 +176,7 @@ class App extends React.Component {
    * Get a patient list by id
    * @param {string} listid id of a patient list
    */
-  openPatientList = listid => {
+  openPatientList = (listid, afterAction = () => null) => {
     this.props.patientListRepository
       .get(listid)
       .then(list => {
@@ -187,11 +186,11 @@ class App extends React.Component {
         this.getPatientListItems(listid).then(items => {
           this.setState({
             view: "items",
-            patientList: list,
-            patientListItems: items
+            patientList: list["Location name"]
           });
         });
-      });
+      })
+      .then(afterAction());
   };
 
   /**
@@ -212,6 +211,8 @@ class App extends React.Component {
    * @param {string} listid id of a patient list
    */
   refreshPatientListItems = listid => {
+    console.log("refresh");
+
     this.props.patientListRepository
       .findItems({
         selector: {
@@ -402,30 +403,21 @@ class App extends React.Component {
   createNewPatientListOrItem = e => {
     e.preventDefault();
     this.setState({ adding: false });
-
-    if (this.state.view === "lists") {
-      let patientList = this.props.patientListFactory.newPatientList({
-        title: this.state.newName
-      });
-      this.props.patientListRepository
-        .put(patientList)
-        .then(this.getPatientLists);
-    } else if (this.state.view === "items") {
-      let item = this.props.patientListFactory.newPatientListItem(
-        {
-          name: this.state.newName
-        },
-        this.state.patientList
-      );
-      this.props.patientListRepository.putItem(item).then(item => {
-        this.getPatientListItems(this.state.patientList._id).then(items => {
-          this.setState({
-            view: "items",
-            patientListItems: items
-          });
+    let item = this.props.patientListFactory.newPatientListItem(
+      {
+        name: this.state.newName
+      },
+      this.state.patientList
+    );
+    this.props.patientListRepository.putItem(item).then(item => {
+      console.log("newpatient");
+      this.getPatientListItems(this.state.patientList._id).then(items => {
+        this.setState({
+          view: "items",
+          patientListItems: items
         });
       });
-    }
+    });
   };
 
   /**
@@ -486,6 +478,7 @@ class App extends React.Component {
         checkAllFunc={this.checkAllListItems}
         totalCounts={this.state.totalPatientListItemCount}
         checkedCounts={this.state.checkedTotalPatientListItemCount}
+        refreshPatientListItems={this.refreshPatientListItems}
       />
     );
   };
@@ -507,6 +500,8 @@ class App extends React.Component {
           changePatientStatus={this.changePatientStatus}
           toggleItemCheckFunc={this.toggleItemCheck}
           editPatientFunc={this.editPatient}
+          location={this.state.patientList}
+          refreshPatientListItems={this.refreshPatientListItems}
         />
       </React.Fragment>
     );
@@ -571,7 +566,7 @@ class App extends React.Component {
   render() {
     let screenname = "Aid Stations";
     if (this.state.view === "items")
-      screenname = "Patients at: " + this.state.patientList.title;
+      screenname = "Patients at: " + this.state.patientList;
     return (
       <MuiThemeProvider muiTheme={muiTheme}>
         <AppContainer>
